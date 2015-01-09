@@ -41,7 +41,7 @@ ol:0EEB8GF0W0NPCIHZX097
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_Dionisio>, <http://dbpedia.org/resource/Michael_Burke>, <http://dbpedia.org/resource/Richard_G._Newman> .
 
 ol:0NURKC5Q3CJYZPPK5046
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Peter-Alexander_Wacker>, viaf:44861013 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Peter-Alexander_Wacker>, viaf:44861013 .
 
 ol:0O4KBQCJZX82UKGCBV73
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Peter_Munk>, viaf:70010016 ;
@@ -125,9 +125,6 @@ ol:2572IBTT8CCZW6AU4141
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/A.G._Lafley> ;
     <http://dbpedia.org/property/founder> "William Procter, James Gamble" .
 
-ol:2594001MNJ3BH1UVVG70
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126 .
-
 ol:2594005LY2PPF83Q0M49
     <http://dbpedia.org/property/founder> "Jeronimo Martins Group, Mariusz Świtalski" .
 
@@ -152,8 +149,8 @@ ol:2CZOJRADNJXBLT55G526
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Vincent_Cheng> .
 
 ol:2EULGUTUI56JI9SAL165
-    <http://dbpedia.org/ontology/chairman> gnd:13812812, <http://de.dbpedia.org/resource/Lakshmi_Mittal>, viaf:165115318 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:13812812, <http://dbpedia.org/resource/Aditya_Mittal>, <http://dbpedia.org/resource/Lakshmi_Mittal>, viaf:165115318 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Lakshmi_Mittal>, viaf:165115318 ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Aditya_Mittal>, <http://dbpedia.org/resource/Lakshmi_Mittal>, viaf:165115318 .
 
 ol:2GDPE42LPJRVL3UQD747
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Peter_Sperling> ;
@@ -240,7 +237,7 @@ ol:39120001YPXVWHJ0YX52
 
 ol:3C7474T6CDKPR9K6YT90
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Gary_M._Reiner>, <http://de.dbpedia.org/resource/Jeffrey_R._Immelt>, <http://de.dbpedia.org/resource/Keith_S._Sherin>, viaf:9647986 ;
-    <http://dbpedia.org/property/founder> gnd:118528912, gnd:11911030, <http://dbpedia.org/resource/Charles_A._Coffin>, <http://dbpedia.org/resource/Edwin_J._Houston>, <http://dbpedia.org/resource/Elihu_Thomson>, <http://dbpedia.org/resource/Thomas_Edison>, viaf:10211990, viaf:57399022, viaf:66552944 .
+    <http://dbpedia.org/property/founder> gnd:118528912, <http://dbpedia.org/resource/Charles_A._Coffin>, <http://dbpedia.org/resource/Edwin_J._Houston>, <http://dbpedia.org/resource/Elihu_Thomson>, <http://dbpedia.org/resource/Thomas_Edison>, viaf:10211990, viaf:57399022, viaf:66552944 .
 
 ol:3E70L4WYANTIWWIPHC81
     <http://dbpedia.org/ontology/chairman> gnd:121279243, <http://de.dbpedia.org/resource/Michael_Dell>, viaf:116590276 ;
@@ -271,10 +268,10 @@ ol:3SU7BEP7TH9YEQOZCS77
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Claude_Mongeau>, <http://dbpedia.org/resource/David_G._A._McLean> .
 
 ol:3VEKWPJHTD4NKMBVG947
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Ralph_Dommermuth> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Ralph_Dommermuth> .
 
 ol:41GUOJQTALQHLF39XJ34
-    <http://dbpedia.org/ontology/chairman> gnd:133343588, gnd:141588098, gnd:4003550, <http://de.dbpedia.org/resource/Klaus_Engel_(Manager)>, <http://de.dbpedia.org/resource/Werner_Müller_(Politiker)>, viaf:67653144 .
+    <http://dbpedia.org/ontology/chairman> gnd:133343588, gnd:141588098, <http://de.dbpedia.org/resource/Klaus_Engel_(Manager)>, <http://de.dbpedia.org/resource/Werner_Müller_(Politiker)>, viaf:67653144 .
 
 ol:4DL8C98Z5G5IXZLH3578
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_A._Luke,_Jr.> .
@@ -324,9 +321,6 @@ ol:5299000HTNHA5ACH9N32
 ol:5299000LHOLXRRD8L428
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jürg_Bucher> .
 
-ol:5299000LM9HC76W5XD46
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299000M3BE5NH1Q8Y07
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Bühler_(Unternehmerfamilie)> ;
     <http://dbpedia.org/property/founder> "Adolf Bühler" .
@@ -334,14 +328,11 @@ ol:5299000M3BE5NH1Q8Y07
 ol:5299000Q61YII5IIPF54
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Lufthansa_Technik> .
 
-ol:5299000XH7YX33EJZP65
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900156OVPNZXFJ655
     <http://dbpedia.org/property/founder> "Dr. Lothar Rohde & Dr. Hermann Schwarz" .
 
 ol:52990018UPG26YRFSM46
-    <http://dbpedia.org/ontology/chairman> gnd:121676854, gnd:4003550, <http://de.dbpedia.org/resource/Ferdinand_Piëch>, <http://de.dbpedia.org/resource/Georg_Pachta-Reyhofen>, viaf:27933673 .
+    <http://dbpedia.org/ontology/chairman> gnd:121676854, <http://de.dbpedia.org/resource/Ferdinand_Piëch>, <http://de.dbpedia.org/resource/Georg_Pachta-Reyhofen>, viaf:27933673 .
 
 ol:529900197LKWCEQ0NL18
     <http://dbpedia.org/property/founder> "H.P. Prior" .
@@ -350,7 +341,7 @@ ol:52990019KB5NPOL55295
     <http://dbpedia.org/ontology/chairman> gnd:128941448, <http://de.dbpedia.org/resource/Albert_Darboven>, viaf:65072470 .
 
 ol:5299001BUUGXAREGE533
-    <http://dbpedia.org/ontology/chairman> gnd:101277869, gnd:1016191340, gnd:4003550, <http://de.dbpedia.org/resource/Christoph_Mohn>, <http://de.dbpedia.org/resource/Thomas_Rabe_(Manager)>, viaf:171358815, viaf:243265436 ;
+    <http://dbpedia.org/ontology/chairman> gnd:1016191340, <http://de.dbpedia.org/resource/Christoph_Mohn>, <http://de.dbpedia.org/resource/Thomas_Rabe_(Manager)>, viaf:171358815, viaf:243265436 ;
     <http://dbpedia.org/property/founder> "Carl Bertelsmann" .
 
 ol:5299001GRRO0Z25YZT52
@@ -360,28 +351,19 @@ ol:5299001GRRO0Z25YZT52
 ol:5299001HW55ZYGASLE52
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Achim_Bachem>, viaf:32070803 .
 
-ol:5299001LIP4W0TI8R130
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:5299001MSSSJOY0HQ246
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299001OHKQVQZXUTY65
     <http://dbpedia.org/ontology/chairman> gnd:138255369, <http://de.dbpedia.org/resource/Karl-Erivan_Haub>, viaf:88300302 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:138255369, <http://dbpedia.org/resource/Karl-Erivan_Haub>, viaf:88300302 .
 
-ol:5299001QZNN0TKI9J120
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299001S2HLLUPD0GE60
-    <http://dbpedia.org/ontology/keyPerson> gnd:4001670, <http://dbpedia.org/resource/Americas>, viaf:236775925 ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Americas>, viaf:236775925 ;
     <http://dbpedia.org/property/founder> gnd:117657972, <http://dbpedia.org/resource/Henry_E._Steinway> .
 
 ol:5299001WZ62NIOWSDK94
     <http://dbpedia.org/property/founder> "Heinrich Röhm" .
 
 ol:5299001X9L42HXEBCZ51
-    <http://dbpedia.org/ontology/chairman> gnd:102549542, gnd:4003550, <http://de.dbpedia.org/resource/Franz_Markus_Haniel>, <http://de.dbpedia.org/resource/Olaf_Koch_(Manager)>, viaf:260098873 ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Franz_Markus_Haniel>, <http://de.dbpedia.org/resource/Olaf_Koch_(Manager)>, viaf:260098873 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Franz_Haniel>, <http://dbpedia.org/resource/Olaf_Koch> .
 
 ol:5299001XR3F8KJHUCG90
@@ -391,16 +373,13 @@ ol:52990021AYVJLL2XMK94
     <http://dbpedia.org/ontology/chairman> gnd:143964313, <http://de.dbpedia.org/resource/Heinz-Peter_Schlüter>, viaf:170366342 .
 
 ol:52990023URMDDRSBI133
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Klaus_Berka> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Klaus_Berka> .
 
 ol:5299002648QC49342C77
     <http://dbpedia.org/ontology/chairman> gnd:129248894, <http://de.dbpedia.org/resource/Alfred_Theodor_Ritter> .
 
 ol:5299002FNBSGW23ULF72
     <http://dbpedia.org/ontology/chairman> gnd:142798487, <http://de.dbpedia.org/resource/Jean-François_Bodin>, <http://de.dbpedia.org/resource/Jochen_Ruetz>, <http://de.dbpedia.org/resource/Marika_Lulay>, <http://de.dbpedia.org/resource/Ulrich_Dietz>, viaf:160032263 .
-
-ol:5299002HNCMIUBHOMK35
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5299002IUP6KVRAK1344
     <http://dbpedia.org/property/founder> "Robert Hanning" .
@@ -410,9 +389,6 @@ ol:5299002J7LD4FOUMXD37
 
 ol:5299002JZ50HE3EPSF95
     <http://dbpedia.org/ontology/keyPerson> gnd:124884288, <http://dbpedia.org/resource/Prosper_L'Orange>, viaf:69873223 .
-
-ol:5299002PSXXMVHB26433
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5299002QFXGWJWKB0X65
     <http://dbpedia.org/ontology/chairman> gnd:1035151898, <http://de.dbpedia.org/resource/Jörg_Sennheiser>, viaf:301362339 ;
@@ -431,13 +407,10 @@ ol:529900349RA56TFGAP64
     <http://dbpedia.org/ontology/chairman> gnd:129248894, <http://de.dbpedia.org/resource/Alfred_Theodor_Ritter> .
 
 ol:52990038IB31TYK07X63
-    <http://dbpedia.org/ontology/chairman> gnd:141680520, gnd:4003550, <http://de.dbpedia.org/resource/Robert_J._Koehler>, <http://de.dbpedia.org/resource/Susanne_Klatten>, viaf:165318348 .
-
-ol:5299003GLDODCVP8DO20
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:141680520, <http://de.dbpedia.org/resource/Robert_J._Koehler>, <http://de.dbpedia.org/resource/Susanne_Klatten>, viaf:165318348 .
 
 ol:5299003H07ZT0Z5ZNN35
-    <http://dbpedia.org/ontology/chairman> gnd:101258531, gnd:170580458, gnd:4003550, <http://de.dbpedia.org/resource/Alexander_Erdland>, <http://de.dbpedia.org/resource/Hans_Dietmar_Sauer>, viaf:172058267, viaf:5510370 .
+    <http://dbpedia.org/ontology/chairman> gnd:170580458, <http://de.dbpedia.org/resource/Alexander_Erdland>, <http://de.dbpedia.org/resource/Hans_Dietmar_Sauer>, viaf:172058267, viaf:5510370 .
 
 ol:5299003H08E5U1R7K284
     <http://dbpedia.org/ontology/chairman> gnd:137878931, <http://de.dbpedia.org/resource/Friedrich_Lürßen>, viaf:86050071 ;
@@ -447,15 +420,11 @@ ol:5299003HYFC0PYBYQH77
     <http://dbpedia.org/ontology/chairman> gnd:130319384, <http://de.dbpedia.org/resource/Norbert_Heinen>, viaf:3577059 .
 
 ol:5299003LA79R73W5KL71
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:118598147, <http://dbpedia.org/resource/Dieter_Rams>, viaf:265911035 ;
     <http://dbpedia.org/property/founder> "Max Braun" .
 
 ol:5299003WYTC1MZDKPM08
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Bernd_Freier> .
-
-ol:5299003X7GPVWMS70V40
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5299003XARZCYZ1AFQ17
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Fridolin_Neumann> .
@@ -476,36 +445,24 @@ ol:5299004TGHM8RRDNME61
     <http://dbpedia.org/property/founder> "Prof. Dr.-Ing. Heinrich Aumund" .
 
 ol:5299004TYSI0Z73QUE46
-    <http://dbpedia.org/ontology/chairman> gnd:1012800911, gnd:4003550, <http://de.dbpedia.org/resource/Hubert_Lienhard>, <http://de.dbpedia.org/resource/Manfred_Bischoff>, viaf:95369872 ;
+    <http://dbpedia.org/ontology/chairman> gnd:1012800911, <http://de.dbpedia.org/resource/Hubert_Lienhard>, <http://de.dbpedia.org/resource/Manfred_Bischoff>, viaf:95369872 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Voith> .
-
-ol:5299004UJ4D51M25LD67
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:5299004X7KB9SF71YG06
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5299004XPX8GS3AHAV34
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Reinhard_Clemens> ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Reinhard_Clemens> .
 
-ol:5299004YO9QL2H4X2329
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299004ZME6CSBR7WP07
-    <http://dbpedia.org/ontology/chairman> gnd:189541970, gnd:4003550, <http://de.dbpedia.org/resource/Erich_Sixt>, <http://de.dbpedia.org/resource/Gunter_Thielen>, viaf:189330598, viaf:36678784 .
+    <http://dbpedia.org/ontology/chairman> gnd:189541970, <http://de.dbpedia.org/resource/Erich_Sixt>, <http://de.dbpedia.org/resource/Gunter_Thielen>, viaf:189330598, viaf:36678784 .
 
 ol:529900533KQNW5XT1N41
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Gerd_Brachmann> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Gerd_Brachmann> .
 
 ol:52990054ANHWFS4FGU83
-    <http://dbpedia.org/ontology/chairman> gnd:143107364, gnd:4003550, <http://de.dbpedia.org/resource/Frank_Bielka>, viaf:160470320 .
-
-ol:52990056G4PX6ZS91O02
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:143107364, <http://de.dbpedia.org/resource/Frank_Bielka>, viaf:160470320 .
 
 ol:52990059OM4QQNYBRS88
-    <http://dbpedia.org/ontology/chairman> gnd:136945813, gnd:4003550, <http://de.dbpedia.org/resource/Wolfgang_Schäfers>, viaf:81205633 .
+    <http://dbpedia.org/ontology/chairman> gnd:136945813, <http://de.dbpedia.org/resource/Wolfgang_Schäfers>, viaf:81205633 .
 
 ol:5299005C3DZR7DC80O11
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Christian_Kächele>, <http://de.dbpedia.org/resource/Eberhard_Goll>, <http://de.dbpedia.org/resource/Frank_Wößner> .
@@ -528,14 +485,8 @@ ol:5299005MZM4T4FC64326
     <http://dbpedia.org/ontology/chairman> gnd:113095546, <http://de.dbpedia.org/resource/Hartmut_Mehdorn>, viaf:42506757 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:113095546, gnd:114200971, <http://dbpedia.org/resource/Hartmut_Mehdorn>, <http://dbpedia.org/resource/Matthias_Platzeck>, viaf:42506757, viaf:84245138 .
 
-ol:5299005N4BAGWSNTZ914
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299005Q4KDOP1B9AZ60
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Jörg_Fahrenbach>, <http://de.dbpedia.org/resource/Thomas_Eichelmann> .
-
-ol:5299005SHIN9ZK7GW242
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5299005TE9713O1TVI13
     <http://dbpedia.org/ontology/keyPerson> gnd:1029958084, <http://dbpedia.org/resource/Claudio_Domenicali>, <http://dbpedia.org/resource/Rupert_Stadler>, viaf:294942892 ;
@@ -555,15 +506,14 @@ ol:5299006COKGB66PUHW42
     <http://dbpedia.org/ontology/chairman> gnd:1047004046, <http://de.dbpedia.org/resource/Hans_E._Schweickardt>, <http://de.dbpedia.org/resource/Jasmin_Staiblin>, viaf:306280872 .
 
 ol:5299006CONFY5MQ7H927
-    <http://dbpedia.org/ontology/chairman> gnd:1016191340, gnd:4003550, <http://de.dbpedia.org/resource/Julia_Jäkel>, <http://de.dbpedia.org/resource/Thomas_Rabe_(Manager)>, viaf:243265436, viaf:74926469 ;
-    <http://dbpedia.org/property/founder> gnd:118516515, gnd:11858636, <http://dbpedia.org/resource/Gerd_Bucerius>, <http://dbpedia.org/resource/Henri_Nannen>, viaf:116372655, viaf:267830419, "John Jahr Sr.", "Richard Gruner" .
+    <http://dbpedia.org/ontology/chairman> gnd:1016191340, <http://de.dbpedia.org/resource/Julia_Jäkel>, <http://de.dbpedia.org/resource/Thomas_Rabe_(Manager)>, viaf:243265436, viaf:74926469 ;
+    <http://dbpedia.org/property/founder> gnd:118516515, <http://dbpedia.org/resource/Gerd_Bucerius>, <http://dbpedia.org/resource/Henri_Nannen>, viaf:116372655, viaf:267830419, "John Jahr Sr.", "Richard Gruner" .
 
 ol:5299006GD4UWSYZOKC28
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Uwe_Röhrhoff> ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Uwe_Röhrhoff> ;
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Ferdinand_Heye> .
 
 ol:5299006ZFZN24XAFPE44
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Axel_Hamann>, <http://dbpedia.org/resource/CSO>, <http://dbpedia.org/resource/Dima_Beitzke>, <http://dbpedia.org/resource/Tobias_Flaitz> ;
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Marius_Würzner>, <http://dbpedia.org/resource/Tim_Schumacher>, <http://dbpedia.org/resource/Ulrich_Essmann>, <http://dbpedia.org/resource/Ulrich_Priesner> .
 
@@ -571,14 +521,11 @@ ol:52990072WDO7FE3ZUY03
     <http://dbpedia.org/property/founder> "Josef Witt" .
 
 ol:52990076MX7KD2XYCH67
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/John_Hammergren> ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/John_Hammergren> ;
     <http://dbpedia.org/property/founder> "Franz Ludwig Gehe" .
 
 ol:52990077KVK7QCK2NG31
     <http://dbpedia.org/property/founder> "August Kongsted and Anton Antons" .
-
-ol:5299007CE1VJWKM99H49
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5299007DB25VT6SHIH34
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Agnete_Raaschou-Nielsen>, <http://dbpedia.org/resource/Chief_Finansial_Officer>, <http://dbpedia.org/resource/Claus_Frees_Sørensen>, <http://dbpedia.org/resource/Michael_Rohde_Pedersen> .
@@ -596,17 +543,11 @@ ol:5299007TA5NYYK85LG87
 ol:5299007XFW3YZ7Z81S70
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Franz_Just> .
 
-ol:5299007YPFC65MIABR58
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299007ZQV2Q72N2SK17
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dr_Ralf_Guckert>, <http://dbpedia.org/resource/Johannes_Nussbickel>, <http://dbpedia.org/resource/Wolfgang_Kroh> .
 
-ol:5299007ZRM3OWJCJ5Q65
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900807L67JY81RD65
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Reiner_Winkler> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Reiner_Winkler> .
 
 ol:52990081RTUT3DWKA272
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Karel_De_Boeck>, <http://de.dbpedia.org/resource/Robert_de_Metz> ;
@@ -624,9 +565,6 @@ ol:52990087UKA0U2TO8412
 ol:5299008FZOWPI3H3T837
     <http://dbpedia.org/ontology/chairman> gnd:137107218, <http://de.dbpedia.org/resource/Hans_B._Bauerfeind>, viaf:81344036 .
 
-ol:5299008S09HWK7VSS394
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:5299008W2A69WX355710
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Anders_Arvai>, <http://dbpedia.org/resource/Lars_Marcher>, <http://dbpedia.org/resource/N.E._Nielsen> .
 
@@ -637,32 +575,22 @@ ol:52990090QY7MZ9DP5S34
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Bartholomäus_Wimmer>, viaf:5564770 .
 
 ol:52990096XE56IELO5P09
-    <http://dbpedia.org/ontology/chairman> gnd:132345293, gnd:4003550, <http://de.dbpedia.org/resource/Jürgen_Großmann>, viaf:18382303 .
-
-ol:52990099LIMD4VYT3175
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:132345293, <http://de.dbpedia.org/resource/Jürgen_Großmann>, viaf:18382303 .
 
 ol:5299009B5F43O0IWIJ90
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Matthias_Hartmann> .
 
 ol:5299009NSH1US0N5Y646
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Lars_Rolner_(CEO)> .
 
-ol:5299009ROBNLE4G0RK14
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900A4J4T4ST46MU67
     <http://dbpedia.org/property/founder> "Thomas Hoof" .
-
-ol:529900A8LX4KL0YUTH71
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900AD9H2MO1W6W179
     <http://dbpedia.org/property/founder> "Peter Lepper" .
 
 ol:529900AQDJ2MD0XYN691
-    <http://dbpedia.org/ontology/chairman> gnd:112567657, gnd:4003550, <http://de.dbpedia.org/resource/Werner_Brinker>, viaf:76972394 .
+    <http://dbpedia.org/ontology/chairman> gnd:112567657, <http://de.dbpedia.org/resource/Werner_Brinker>, viaf:76972394 .
 
 ol:529900AX23U7610M0T80
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Chief_Research_Officer> .
@@ -673,12 +601,6 @@ ol:529900AYBD781QQW6H46
 ol:529900B1OZPXYXGIU456
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Maria-Johanna_Schaecher> .
 
-ol:529900B635NV0KEEOR57
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900B8MF9HXXY2F943
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900BN1GJIHMSUGS24
     <http://dbpedia.org/ontology/chairman> gnd:129669210, <http://de.dbpedia.org/resource/Benedikt_Taschen>, viaf:33083323 ;
     <http://dbpedia.org/property/founder> gnd:129669210, <http://dbpedia.org/resource/Benedikt_Taschen>, viaf:33083323 .
@@ -687,7 +609,7 @@ ol:529900BO8HF6XOOXQE11
     <http://dbpedia.org/ontology/chairman> gnd:109831616, <http://de.dbpedia.org/resource/Ulf-Dieter_Zimmermann>, viaf:5511357 .
 
 ol:529900BRWKYJGX50N274
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Stefan_Winners>, <http://de.dbpedia.org/resource/Toon_Bouten> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Stefan_Winners>, <http://de.dbpedia.org/resource/Toon_Bouten> .
 
 ol:529900BTWJ6SISLJ5854
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Manfred_Swarovski> .
@@ -727,17 +649,8 @@ ol:529900CQ31CN6GV5LL52
 ol:529900CV6E2CI7YZGX27
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Dr._Ralf_Dingeldein> .
 
-ol:529900D82I6R9601CF26
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900D9HVTE7JWY8C51
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Jochen_Partsch> .
-
-ol:529900D9UY109RMS9732
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900DGVITE7A2L5G12
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Jochen_Partsch> .
 
 ol:529900DJMOF0DTSWHO38
     <http://dbpedia.org/ontology/chairman> gnd:139075089, <http://de.dbpedia.org/resource/Fred_Jung>, <http://de.dbpedia.org/resource/Matthias_Willenbacher>, viaf:95666390 ;
@@ -750,7 +663,7 @@ ol:529900DU5PBUHKEESW60
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Chief_Market_Officer>, <http://de.dbpedia.org/resource/Werner_Mellis>, viaf:59874942 .
 
 ol:529900DV1ODI5C2GRH81
-    <http://dbpedia.org/ontology/chairman> gnd:110005155, gnd:4003550, <http://de.dbpedia.org/resource/Michael_Herz_(Unternehmer)>, <http://de.dbpedia.org/resource/Reinhard_Pöllath>, viaf:44888851 .
+    <http://dbpedia.org/ontology/chairman> gnd:110005155, <http://de.dbpedia.org/resource/Michael_Herz_(Unternehmer)>, <http://de.dbpedia.org/resource/Reinhard_Pöllath>, viaf:44888851 .
 
 ol:529900E357X69G2YBY34
     <http://dbpedia.org/ontology/chairman> gnd:121460053, <http://de.dbpedia.org/resource/Joseph_Deiss>, viaf:59081138 .
@@ -758,22 +671,16 @@ ol:529900E357X69G2YBY34
 ol:529900E5LYSSRZ2R2F36
     <http://dbpedia.org/ontology/chairman> gnd:1012585301, <http://de.dbpedia.org/resource/Dieter_Salomon>, viaf:47430865 .
 
-ol:529900E6WSS6KRR3K987
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900EJTD8IR1GN0P96
-    <http://dbpedia.org/ontology/chairman> gnd:108959120, gnd:4003550, <http://de.dbpedia.org/resource/Eckart_John_von_Freyend>, viaf:30090371 .
+    <http://dbpedia.org/ontology/chairman> gnd:108959120, <http://de.dbpedia.org/resource/Eckart_John_von_Freyend>, viaf:30090371 .
 
 ol:529900EW0ZH7KAZ11H71
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Sven_Seidel> ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Klaus_Gehrig> ;
-    <http://dbpedia.org/property/founder> gnd:101279038, <http://dbpedia.org/resource/Dieter_Schwarz>, viaf:171699289 .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Dieter_Schwarz>, viaf:171699289 .
 
 ol:529900EZYU3596EMMY61
     <http://dbpedia.org/property/founder> "Alexander Rösner, Klaas Kersting" .
-
-ol:529900F0BXPCY8CSGI67
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900F0LT5OP4SV6122
     <http://dbpedia.org/ontology/chairman> gnd:1025252292, <http://de.dbpedia.org/resource/Volkmar_Denner>, viaf:253717096 ;
@@ -784,7 +691,7 @@ ol:529900F1MBIZ4JKWKH53
     <http://dbpedia.org/ontology/chairman> gnd:1034659979, <http://de.dbpedia.org/resource/Werner_Michael_Bahlsen>, viaf:302452798 .
 
 ol:529900F1RRY8J20M2I79
-    <http://dbpedia.org/ontology/chairman> gnd:17135639, <http://de.dbpedia.org/resource/Friedrich_Wehrle>, viaf:275830852 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Friedrich_Wehrle>, viaf:275830852 .
 
 ol:529900F3OKO5CVN6CB87
     <http://dbpedia.org/ontology/chairman> gnd:132417332, <http://de.dbpedia.org/resource/Albert_Deß>, viaf:67626798 .
@@ -805,14 +712,13 @@ ol:529900FLLF9YG1O5NH85
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Matthias_Klipp> .
 
 ol:529900FOTM78R9Q9NY89
-    <http://dbpedia.org/property/founder> gnd:2114358, <http://dbpedia.org/resource/Robert_Bosch_GmbH>, <http://dbpedia.org/resource/Siemens> .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Robert_Bosch_GmbH>, <http://dbpedia.org/resource/Siemens> .
 
 ol:529900FQVQD88SHIGM04
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Stefan_Borgas> .
 
 ol:529900FR2K4P9L9XLV21
-    <http://dbpedia.org/ontology/chairman> gnd:141670258, gnd:4003550, <http://de.dbpedia.org/resource/Andreas_Büchting>, <http://de.dbpedia.org/resource/Philip_Freiherr_von_dem_Bussche>, viaf:121788055 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 ;
+    <http://dbpedia.org/ontology/chairman> gnd:141670258, <http://de.dbpedia.org/resource/Andreas_Büchting>, <http://de.dbpedia.org/resource/Philip_Freiherr_von_dem_Bussche>, viaf:121788055 ;
     <http://dbpedia.org/property/founder> gnd:139074570, <http://dbpedia.org/resource/Matthias_Christian_Rabbethge>, viaf:95665919 .
 
 ol:529900FU0SYFOJ829D38
@@ -822,7 +728,6 @@ ol:529900FUWCN22LZAKI10
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Klaus_Becker_(Manager)> .
 
 ol:529900FVJ5HGVSZVCP69
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/property/founder> "Frank Thielert" .
 
 ol:529900G044JZA89QRV36
@@ -843,21 +748,12 @@ ol:529900GC2W4STWN9ZW87
 ol:529900GDKJKCPHIVG858
     <http://dbpedia.org/ontology/chairman> gnd:137449569, <http://de.dbpedia.org/resource/Clemens_Tönnies>, viaf:81639349 .
 
-ol:529900GEUFGNGXF5Q548
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900GGYCI0IK2WYI41
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900GJ17O77YECXJ82
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Helmut_List> ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Helmut_List> .
 
 ol:529900GJ7SD4UUCS3N14
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Mischa_Hofmann> .
-
-ol:529900GRL4MZ8NMOOK95
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900GXPIH9RUQJUX35
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Kristian_Gerhard_Jebsen> .
@@ -866,23 +762,14 @@ ol:529900GXYN12BCIVB415
     <http://dbpedia.org/property/founder> "Hugo Knümann" .
 
 ol:529900H0HULEN2BZ4604
-    <http://dbpedia.org/ontology/chairman> gnd:101257119, gnd:120458845, gnd:4003550, <http://de.dbpedia.org/resource/Bernhard_Walter>, <http://de.dbpedia.org/resource/Roland_Koch>, viaf:171642298, viaf:74109380 ;
+    <http://dbpedia.org/ontology/chairman> gnd:120458845, <http://de.dbpedia.org/resource/Bernhard_Walter>, <http://de.dbpedia.org/resource/Roland_Koch>, viaf:171642298, viaf:74109380 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:120458845, <http://dbpedia.org/resource/Roland_Koch>, viaf:74109380 .
-
-ol:529900H337HYMPVSMW09
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900HQJFZ7ZPFLEG46
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Walter_A._Stephan> .
 
-ol:529900HS8FQCYQS1KN21
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900HVDYCUWVD0OE76
-    <http://dbpedia.org/ontology/chairman> gnd:172472407, gnd:4003550, <http://de.dbpedia.org/resource/Jürgen_Zeschky>, <http://de.dbpedia.org/resource/Wolfgang_Ziebart>, viaf:249157463 .
-
-ol:529900HZB06LAP9G6I84
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:172472407, <http://de.dbpedia.org/resource/Jürgen_Zeschky>, <http://de.dbpedia.org/resource/Wolfgang_Ziebart>, viaf:249157463 .
 
 ol:529900I2PEF1FN6N6723
     <http://dbpedia.org/ontology/chairman> gnd:118570528, <http://de.dbpedia.org/resource/Gerhard_Schröder>, <http://de.dbpedia.org/resource/Matthias_Warnig>, viaf:90641496 ;
@@ -895,7 +782,7 @@ ol:529900ICA8XQYGIKR372
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Byron_Haynes> .
 
 ol:529900IDFHN9MQ3WUD64
-    <http://dbpedia.org/ontology/chairman> gnd:1036534286, gnd:4003550, <http://de.dbpedia.org/resource/Rolf_Hollander>, viaf:304715798 .
+    <http://dbpedia.org/ontology/chairman> gnd:1036534286, <http://de.dbpedia.org/resource/Rolf_Hollander>, viaf:304715798 .
 
 ol:529900IJSGGESV3GEO59
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Klaus_Grohe_(Unternehmer)> ;
@@ -912,15 +799,9 @@ ol:529900IOG1ENLW4SUU53
 ol:529900IPLT45MQVUA234
     <http://dbpedia.org/property/founder> "Thomas Twyford & Thomas William Twyford" .
 
-ol:529900IQAYRZIGKOJL63
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900ISR2VNZV1C0T93
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900IZ8AYE18GURC54
     <http://dbpedia.org/ontology/chairman> gnd:120203383, gnd:170703991, <http://de.dbpedia.org/resource/Markus_Miele>, <http://de.dbpedia.org/resource/Reinhard_Zinkann_junior>, viaf:198948967, viaf:32821169 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:212100, <http://dbpedia.org/resource/Miele> ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Miele> ;
     <http://dbpedia.org/property/founder> "Carl Miele and Reinhard Zinkann" .
 
 ol:529900J0WJT19YB02044
@@ -936,7 +817,7 @@ ol:529900J6VNDBVTKV7I86
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/François_Perol> .
 
 ol:529900J79A2Z1R6HUR84
-    <http://dbpedia.org/ontology/chairman> gnd:130586218, gnd:4003550, <http://de.dbpedia.org/resource/Michael_Fuchs_(Koblenz)>, viaf:52799346 .
+    <http://dbpedia.org/ontology/chairman> gnd:130586218, <http://de.dbpedia.org/resource/Michael_Fuchs_(Koblenz)>, viaf:52799346 .
 
 ol:529900J7EWWGQ375DL84
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Helmut_List> ;
@@ -946,7 +827,6 @@ ol:529900JDH89XE4F9UY53
     <http://dbpedia.org/ontology/chairman> gnd:1011781433, <http://de.dbpedia.org/resource/Karl_Friedrich_von_Hohenzollern> .
 
 ol:529900JGIIW56IPEV956
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/property/founder> "Daniel Straub, Schweizer" .
 
 ol:529900JP6PZ9YHF25852
@@ -968,7 +848,6 @@ ol:529900JXJRFJVJO3TZ26
 
 ol:529900JYJNNOKKAGK736
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Ernst_Tanner_(Manager)> ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006 ;
     <http://dbpedia.org/property/founder> "David Sprüngli-Schwarz", "Rudolf Sprüngli-Ammann" .
 
 ol:529900K39P3Q0F5O5G85
@@ -979,9 +858,6 @@ ol:529900K6JN1RFIK2RI18
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Herbert_Bolliger> ;
     <http://dbpedia.org/ontology/keyPerson> gnd:118528343, <http://dbpedia.org/resource/Gottlieb_Duttweiler>, viaf:45093894 .
 
-ol:529900K91J8UXZUIX235
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900K9B0N5BT694847
     <http://dbpedia.org/ontology/chairman> gnd:170266370, <http://de.dbpedia.org/resource/Helmut_Perlet>, <http://de.dbpedia.org/resource/Michael_Diekmann>, viaf:193740981 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Helmut_Perlet> .
@@ -989,27 +865,18 @@ ol:529900K9B0N5BT694847
 ol:529900K9ZGGNF9D1JW18
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dr._Peter_Moritz>, <http://dbpedia.org/resource/Roland_W._Chalons-Browne> .
 
-ol:529900KIN5BE45V5KB18
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900KO6CN2D9OE1F19
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Etienne_Jornod> .
-
-ol:529900KOICE97ZSA1O52
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900KS4BSRNJ98CR30
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900KYHZRIVAL4AK41
     <http://dbpedia.org/property/founder> "Michael Faist" .
 
 ol:529900L444MQCT0G8234
-    <http://dbpedia.org/ontology/chairman> gnd:1032385936, gnd:17212008, <http://de.dbpedia.org/resource/Andreas_Meyer_(Manager)>, <http://de.dbpedia.org/resource/Ulrich_Gygi>, viaf:194163229, viaf:297961159 ;
+    <http://dbpedia.org/ontology/chairman> gnd:1032385936, <http://de.dbpedia.org/resource/Andreas_Meyer_(Manager)>, <http://de.dbpedia.org/resource/Ulrich_Gygi>, viaf:194163229, viaf:297961159 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Andreas_Meyer_(railway_executive)> .
 
 ol:529900L6DKA0IGUCGH42
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Le_Fort_(Adelsgeschlecht)> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Le_Fort_(Adelsgeschlecht)> .
 
 ol:529900LE6TVR61QSAK10
     <http://dbpedia.org/ontology/chairman> gnd:123680042, <http://de.dbpedia.org/resource/Siegfried_Weishaupt>, viaf:3386273 .
@@ -1017,18 +884,9 @@ ol:529900LE6TVR61QSAK10
 ol:529900LEMMBXNRX31N35
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Julien_De_Wilde> .
 
-ol:529900LG4MEW8I54JM22
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900LHT0GUDPEV3546
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900LMI5FN0KFOE272
-    <http://dbpedia.org/ontology/chairman> gnd:171598504, gnd:4003550, <http://de.dbpedia.org/resource/Hans-Otto_Schrader>, <http://de.dbpedia.org/resource/Michael_Otto> ;
+    <http://dbpedia.org/ontology/chairman> gnd:171598504, <http://de.dbpedia.org/resource/Hans-Otto_Schrader>, <http://de.dbpedia.org/resource/Michael_Otto> ;
     <http://dbpedia.org/ontology/keyPerson> gnd:171598504, <http://dbpedia.org/resource/Michael_Otto_(businessman)> .
-
-ol:529900LN81IHTQV41F30
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900LR96WLQ75KCE70
     <http://dbpedia.org/ontology/chairman> gnd:130298638, <http://de.dbpedia.org/resource/Hans_Georg_Näder> ;
@@ -1045,25 +903,22 @@ ol:529900LUKDXAWQ85R269
     <http://dbpedia.org/ontology/chairman> gnd:173405932, <http://de.dbpedia.org/resource/Constantin_Alsheimer>, viaf:243645714 .
 
 ol:529900LVXWH6VB9SQG15
-    <http://dbpedia.org/ontology/chairman> gnd:133589730, gnd:4003550, <http://de.dbpedia.org/resource/Manfred_Nüssel>, viaf:11039763 .
+    <http://dbpedia.org/ontology/chairman> gnd:133589730, <http://de.dbpedia.org/resource/Manfred_Nüssel>, viaf:11039763 .
 
 ol:529900LZEZ8EIEK7W207
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Stefan_Kölbl> .
-
-ol:529900M158OU8D7KIY26
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900M3O97GTCP7X414
     <http://dbpedia.org/property/founder> "Johann Josef Keller and Jakob Knappich" .
 
 ol:529900MBF3N1ATE55378
-    <http://dbpedia.org/ontology/chairman> gnd:117287148, gnd:4003550, <http://de.dbpedia.org/resource/Dieter_Stolte>, viaf:17298037 .
+    <http://dbpedia.org/ontology/chairman> gnd:117287148, <http://de.dbpedia.org/resource/Dieter_Stolte>, viaf:17298037 .
 
 ol:529900MF0SWGDNGGNG80
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Martin_Kannegiesser> .
 
 ol:529900MSG2MGANMD7Q29
-    <http://dbpedia.org/ontology/chairman> gnd:17082408, <http://de.dbpedia.org/resource/Dieter_Kempf>, viaf:111876329 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Dieter_Kempf>, viaf:111876329 .
 
 ol:529900MUC204CK2ZQQ28
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Axel_Nagel>, <http://de.dbpedia.org/resource/Rüdiger_Heeg> .
@@ -1078,15 +933,9 @@ ol:529900N8OA1GVSR5R946
 ol:529900N9U6KXXOUJT875
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Verwaltungsrat_(Schweiz)> .
 
-ol:529900NB2CCIJ6LGPD18
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900NHAJN3W5HYMG07
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Andrew_Walo> ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4180480, <http://dbpedia.org/resource/Swiss_franc> .
-
-ol:529900NJ2IL97IFXB838
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Swiss_franc> .
 
 ol:529900NK4WP5QSWI8X50
     <http://dbpedia.org/property/founder> "François Boch and Nicolas Villeroy" .
@@ -1095,20 +944,16 @@ ol:529900NY0O4YC3Q7E794
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Herbert_Mederer> .
 
 ol:529900NY0WWQUKOMWQ37
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Johannes_Huth>, <http://de.dbpedia.org/resource/Thomas_Ebeling_(Manager)> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Johannes_Huth>, <http://de.dbpedia.org/resource/Thomas_Ebeling_(Manager)> .
 
 ol:529900NYBZXNS4RNO697
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Herbert_Schein> .
 
 ol:529900NZ6MAST5IJF669
-    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Klaus_Stahlmann> ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Klaus_Stahlmann> .
 
 ol:529900O67D58JONSGX86
     <http://dbpedia.org/ontology/chairman> gnd:111377986, <http://de.dbpedia.org/resource/Norbert_Winkeljohann>, viaf:3093660 .
-
-ol:529900OEWA4GSZEZ4P40
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900OPYHMT296N4711
     <http://dbpedia.org/ontology/chairman> gnd:132110857, <http://de.dbpedia.org/resource/Wolfgang_Kirsch_(CDU)>, viaf:120090491 .
@@ -1138,7 +983,7 @@ ol:529900PLZZNPAYM5AX19
     <http://dbpedia.org/property/founder> "Theodor Kiepe" .
 
 ol:529900PM64WH8AF1E917
-    <http://dbpedia.org/ontology/chairman> gnd:143322419, gnd:170069109, gnd:4003550, <http://de.dbpedia.org/resource/Jürgen_Hambrecht>, <http://de.dbpedia.org/resource/Kurt_Bock>, viaf:164552067, viaf:233853475 .
+    <http://dbpedia.org/ontology/chairman> gnd:143322419, gnd:170069109, <http://de.dbpedia.org/resource/Jürgen_Hambrecht>, <http://de.dbpedia.org/resource/Kurt_Bock>, viaf:164552067, viaf:233853475 .
 
 ol:529900PPZ8FF0RXJ2T05
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Ministry_of_Health_and_Care_Services> .
@@ -1148,15 +993,12 @@ ol:529900PT6AZRN58FZC34
 
 ol:529900PXZU3YHO6HMD80
     <http://dbpedia.org/ontology/chairman> gnd:113162448, <http://de.dbpedia.org/resource/Giuseppe_Vita>, <http://de.dbpedia.org/resource/Mathias_Döpfner>, viaf:4978371 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:113162448, gnd:4003550, <http://dbpedia.org/resource/Mathias_Döpfner>, viaf:4978371 ;
+    <http://dbpedia.org/ontology/keyPerson> gnd:113162448, <http://dbpedia.org/resource/Mathias_Döpfner>, viaf:4978371 ;
     <http://dbpedia.org/property/founder> gnd:118616420, <http://dbpedia.org/resource/Axel_Springer>, viaf:51761476 .
 
 ol:529900Q0YED3805QXQ66
     <http://dbpedia.org/ontology/keyPerson> gnd:136587607, <http://dbpedia.org/resource/Karl_Gernandt>, <http://dbpedia.org/resource/Klaus-Michael_Kühne>, viaf:80906341 ;
     <http://dbpedia.org/property/founder> "August KühneFriedrich Nagel" .
-
-ol:529900Q6JQHI8X451Q21
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900QDISXXZ2D1Q489
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Stefan_Wolf_(Manager)> ;
@@ -1164,7 +1006,7 @@ ol:529900QDISXXZ2D1Q489
     <http://dbpedia.org/property/founder> "Paul Lechler" .
 
 ol:529900QIJIGPI0DRL085
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Alexander_Stuhlmann> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Alexander_Stuhlmann> .
 
 ol:529900QM5SZJ1SFXGK74
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Generalvikar> .
@@ -1176,17 +1018,10 @@ ol:529900QS3ALIRQ2UD302
     <http://dbpedia.org/property/founder> "Peter Lepper" .
 
 ol:529900R27DL06UVNT076
-    <http://dbpedia.org/ontology/chairman> gnd:110197534, gnd:4003550, <http://de.dbpedia.org/resource/Dieter_Zetsche>, <http://de.dbpedia.org/resource/Manfred_Bischoff>, viaf:601342, viaf:95369872 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:110197534, gnd:4003550, <http://dbpedia.org/resource/Dieter_Zetsche>, viaf:601342 .
-
-ol:529900R5UW2BH9IKDD16
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900RE3JI3SZCF9R79
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:110197534, <http://de.dbpedia.org/resource/Dieter_Zetsche>, <http://de.dbpedia.org/resource/Manfred_Bischoff>, viaf:601342, viaf:95369872 ;
+    <http://dbpedia.org/ontology/keyPerson> gnd:110197534, <http://dbpedia.org/resource/Dieter_Zetsche>, viaf:601342 .
 
 ol:529900RJL86244E1I652
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/property/founder> "Johann Christian Wacker" .
 
 ol:529900RKK81ZJGXMYT63
@@ -1195,28 +1030,25 @@ ol:529900RKK81ZJGXMYT63
     <http://dbpedia.org/property/founder> gnd:129338338, <http://dbpedia.org/resource/Frank_Stronach>, viaf:166087602 .
 
 ol:529900RRH802ORPO3K40
-    <http://dbpedia.org/ontology/chairman> gnd:132034107, gnd:4003550, <http://de.dbpedia.org/resource/Helma_Orosz>, viaf:35605146 .
+    <http://dbpedia.org/ontology/chairman> gnd:132034107, <http://de.dbpedia.org/resource/Helma_Orosz>, viaf:35605146 .
 
 ol:529900RVKO8HB9CXB824
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Karl_Pojer>, <http://de.dbpedia.org/resource/Wolfgang_Flägel> .
 
 ol:529900SBACR1WKHFMR72
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Arbeitsdirektor> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Arbeitsdirektor> .
 
 ol:529900SH895E31PGLA72
     <http://dbpedia.org/property/founder> "Hermann Wirtz, Sr." .
-
-ol:529900SJ468BI22AES63
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900SKX2MWCWWZIF26
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Generalvollmacht> .
 
 ol:529900SL2WSPV293B552
-    <http://dbpedia.org/ontology/chairman> gnd:141921064, gnd:4003550, <http://de.dbpedia.org/resource/Friedrich_Joussen>, <http://de.dbpedia.org/resource/Klaus_Mangold>, viaf:127422099 .
+    <http://dbpedia.org/ontology/chairman> gnd:141921064, <http://de.dbpedia.org/resource/Friedrich_Joussen>, <http://de.dbpedia.org/resource/Klaus_Mangold>, viaf:127422099 .
 
 ol:529900SNF9E1P5ZO4P98
-    <http://dbpedia.org/ontology/chairman> gnd:143322419, gnd:4003550, <http://de.dbpedia.org/resource/Jürgen_Hambrecht>, viaf:164552067 ;
+    <http://dbpedia.org/ontology/chairman> gnd:143322419, <http://de.dbpedia.org/resource/Jürgen_Hambrecht>, viaf:164552067 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jürgen_F._Strube> ;
     <http://dbpedia.org/property/founder> "Rudolf Fuchs" .
 
@@ -1224,39 +1056,23 @@ ol:529900SNR4JQCSACBN29
     <http://dbpedia.org/property/founder> "Johann Jacob Rieter" .
 
 ol:529900T4Y9MH9A5TJJ87
-    <http://dbpedia.org/ontology/chairman> gnd:1012395103, gnd:4003550, <http://de.dbpedia.org/resource/Jürgen_Hubbert>, viaf:171509219 .
-
-ol:529900TCZNGM33ALSB30
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 .
-
-ol:529900TESWV2RIPW4B41
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:1012395103, <http://de.dbpedia.org/resource/Jürgen_Hubbert>, viaf:171509219 .
 
 ol:529900TH4OAW7WYG1777
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Christian_Rynning-Tønnesen>, <http://dbpedia.org/resource/Svein_Aaser> .
 
 ol:529900TJB7OR8M3GJ361
     <http://dbpedia.org/property/founder> "Henry C. Turner" .
 
 ol:529900TKRXBUP2789P13
-    <http://dbpedia.org/ontology/chairman> gnd:129262838, gnd:4003550, <http://de.dbpedia.org/resource/Thomas_Jung_(Politiker)>, viaf:70003994 .
+    <http://dbpedia.org/ontology/chairman> gnd:129262838, <http://de.dbpedia.org/resource/Thomas_Jung_(Politiker)>, viaf:70003994 .
 
 ol:529900TMGHZZA2N8U253
     <http://dbpedia.org/property/founder> "Carl Bechstein" .
 
-ol:529900TQ8QL907KHBA76
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900TQOZBVGJ24H737
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900TVS7JQY1E72426
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900TYYSRJH2VJSP60
-    <http://dbpedia.org/ontology/chairman> gnd:12326880, gnd:4003550, <http://de.dbpedia.org/resource/Alfred_Gusenbauer>, <http://de.dbpedia.org/resource/Thomas_Birtel>, viaf:84254556 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:1014041279, gnd:12326880, <http://dbpedia.org/resource/Alfred_Gusenbauer>, <http://dbpedia.org/resource/Hans_Peter_Haselsteiner>, viaf:178358037, viaf:84254556 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Alfred_Gusenbauer>, <http://de.dbpedia.org/resource/Thomas_Birtel>, viaf:84254556 ;
+    <http://dbpedia.org/ontology/keyPerson> gnd:1014041279, <http://dbpedia.org/resource/Alfred_Gusenbauer>, <http://dbpedia.org/resource/Hans_Peter_Haselsteiner>, viaf:178358037, viaf:84254556 .
 
 ol:529900U19LEU04VD6I75
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Franz_Inselkammer_(Sohn)> .
@@ -1274,9 +1090,6 @@ ol:529900UHZK3SEUYFH322
 ol:529900UK0WOX911WAB73
     <http://dbpedia.org/property/founder> "Adolf Wilhelm Keim" .
 
-ol:529900UUFYIERF7XA126
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900V7CUQPHNVUD192
     <http://dbpedia.org/ontology/chairman> gnd:133449564, <http://de.dbpedia.org/resource/Rüdiger_Grube>, viaf:43519906 .
 
@@ -1284,7 +1097,7 @@ ol:529900V7NMU9FG451M94
     <http://dbpedia.org/property/founder> "Karl Reusch" .
 
 ol:529900VHM89GUAJ1RK35
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Franz_Markus_Haniel> ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Franz_Markus_Haniel> ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/(CEO)>, <http://dbpedia.org/resource/(Chaiman)> ;
     <http://dbpedia.org/property/founder> "Jan Willem Noot" .
 
@@ -1297,12 +1110,6 @@ ol:529900VKI1GGXANN7C08
 ol:529900VQBIFX79R7GU60
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Tally_Elfassi-Weijl> .
 
-ol:529900VQN7R1CFQUU946
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
-ol:529900VVQ4470YJ67K26
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900VVXGAWG6MCDO69
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Erwin_Franz_Müller> ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Erwin_Franz_Müller> .
@@ -1311,10 +1118,7 @@ ol:529900W3MOO00A18X956
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Sándor_Csányi_(banker)> .
 
 ol:529900W51PINCFFALS96
-    <http://dbpedia.org/ontology/chairman> gnd:136532888, gnd:4003550, <http://de.dbpedia.org/resource/Alexander_von_Witzleben>, viaf:80860845 .
-
-ol:529900W65VE206C6PC25
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:136532888, <http://de.dbpedia.org/resource/Alexander_von_Witzleben>, viaf:80860845 .
 
 ol:529900W9K25KXTZ20124
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Albrecht_Auwärter>, <http://dbpedia.org/resource/Bob_Lee>, <http://dbpedia.org/resource/Joachim_Reinmuth>, <http://dbpedia.org/resource/Konrad_Auwärter> ;
@@ -1335,40 +1139,25 @@ ol:529900X7W93DV2OJMG60
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Michael_Sattler_(Manager)> .
 
 ol:529900XQ1XKU09441Q49
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Dirk_Ahlers>, <http://de.dbpedia.org/resource/Felix_Ahlers> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Dirk_Ahlers>, <http://de.dbpedia.org/resource/Felix_Ahlers> .
 
 ol:529900XUC6PXMN6ABU42
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Berndt-Michael_Winter> .
 
-ol:529900XUVCGWJ1PTSR84
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900Y25S8NZIYTT924
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Thomas_Eichelmann> .
-
-ol:529900Y59Y4BGKC7GG65
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Thomas_Eichelmann> .
 
 ol:529900Y6N0H2YZXGSJ47
     <http://dbpedia.org/property/founder> "J.S. Staedtler" .
 
-ol:529900YOBXEE8ZYM4V56
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:529900YOJFC34JLKFT58
     <http://dbpedia.org/property/founder> "Heinz Kettler" .
 
-ol:529900YVXCGNWAUYZG78
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006 .
-
 ol:529900YZNQ3MUUZ02M47
-    <http://dbpedia.org/ontology/chairman> gnd:189540435, gnd:4003550, <http://de.dbpedia.org/resource/Henning_Kreke>, viaf:220748591 .
+    <http://dbpedia.org/ontology/chairman> gnd:189540435, <http://de.dbpedia.org/resource/Henning_Kreke>, viaf:220748591 .
 
 ol:529900Z01QVW8VBJFK97
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Eigentum> .
-
-ol:529900Z2CNNWLIXNEK22
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:529900Z5KBA9KJP6EK09
     <http://dbpedia.org/ontology/chairman> gnd:171497015, <http://de.dbpedia.org/resource/Friedrich_Caspers>, viaf:198162202 .
@@ -1380,10 +1169,9 @@ ol:529900ZAFSOBVFCKF263
     <http://dbpedia.org/property/founder> "Carl Benteler" .
 
 ol:529900ZAXBMQDIWPNB72
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Wolfgang_Eder_(Manager)> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Wolfgang_Eder_(Manager)> .
 
 ol:529900ZCRUJ3J5PYWX81
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Tulsi_Tanti> .
 
 ol:529900ZF7H3V56V8IM45
@@ -1396,13 +1184,10 @@ ol:529900ZWSTF2ZQ2V4X45
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Andreas_Hämmerle> .
 
 ol:529900ZYWUNL4G397V26
-    <http://dbpedia.org/ontology/chairman> gnd:1037001699, gnd:4003550, <http://de.dbpedia.org/resource/Andrej_Babiš>, <http://de.dbpedia.org/resource/Rüdiger_Geserick>, viaf:85365171 .
+    <http://dbpedia.org/ontology/chairman> gnd:1037001699, <http://de.dbpedia.org/resource/Andrej_Babiš>, <http://de.dbpedia.org/resource/Rüdiger_Geserick>, viaf:85365171 .
 
 ol:54930006M0532SF5DF32
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Hallmark_Cards> .
-
-ol:5493000BD5GJNUDIUG10
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 .
 
 ol:5493000C4S664YT7T556
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/David_Brenner_(Politiker)>, <http://de.dbpedia.org/resource/Heinz_Schaden>, <http://de.dbpedia.org/resource/Leopold_Windtner> .
@@ -1419,7 +1204,7 @@ ol:5493000D979CWE8NNC67
 
 ol:5493000IBP32UQZ0KL24
     <http://dbpedia.org/ontology/keyPerson> gnd:120554453, gnd:129816337, <http://dbpedia.org/resource/BBC_Trust>, <http://dbpedia.org/resource/Chris_Patten>, <http://dbpedia.org/resource/Director-General_of_the_BBC>, <http://dbpedia.org/resource/Tony_Hall,_Baron_Hall_of_Birkenhead>, viaf:74012730, viaf:79546147 ;
-    <http://dbpedia.org/property/founder> gnd:11915482, <http://dbpedia.org/resource/John_Reith,_1st_Baron_Reith>, viaf:59888047 .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/John_Reith,_1st_Baron_Reith>, viaf:59888047 .
 
 ol:5493000JSMHPHZURLM72
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jon_Feltheimer>, <http://dbpedia.org/resource/Mark_Rachesky>, <http://dbpedia.org/resource/Michael_R._Burns> ;
@@ -1442,7 +1227,7 @@ ol:5493000V8VX0VMQOOG94
     <http://dbpedia.org/property/founder> "Emond brothers" .
 
 ol:5493001136GE6L4R7M63
-    <http://dbpedia.org/ontology/chairman> gnd:13812812, <http://de.dbpedia.org/resource/Lakshmi_Mittal>, viaf:165115318 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Lakshmi_Mittal>, viaf:165115318 .
 
 ol:549300115UILLXNE1Z49
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jimmy_Haslam> .
@@ -1494,7 +1279,7 @@ ol:5493001NEDZNIFRP2R92
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Anne_Cox_Chambers>, <http://dbpedia.org/resource/James_C._Kennedy>, <http://dbpedia.org/resource/Patrick_J._Esser>, viaf:107420943 .
 
 ol:5493001OHMD58DCY4635
-    <http://dbpedia.org/property/founder> gnd:122372913, gnd:12237293, gnd:122372980, <http://dbpedia.org/resource/Augustus_Stinchfield>, <http://dbpedia.org/resource/Charles_Horace_Mayo>, <http://dbpedia.org/resource/Henry_Stanley_Plummer>, <http://dbpedia.org/resource/William_James_Mayo>, <http://dbpedia.org/resource/William_Worrall_Mayo>, viaf:3352627, viaf:8267322, "Christopher Graham", "Donald Balfour", "E. Star Judd", "Melvin Millet" .
+    <http://dbpedia.org/property/founder> gnd:122372913, gnd:122372980, <http://dbpedia.org/resource/Augustus_Stinchfield>, <http://dbpedia.org/resource/Charles_Horace_Mayo>, <http://dbpedia.org/resource/Henry_Stanley_Plummer>, <http://dbpedia.org/resource/William_James_Mayo>, <http://dbpedia.org/resource/William_Worrall_Mayo>, viaf:3352627, viaf:8267322, "Christopher Graham", "Donald Balfour", "E. Star Judd", "Melvin Millet" .
 
 ol:5493001OM5V4RNQS1174
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Tom_Skidmore> .
@@ -1505,9 +1290,6 @@ ol:5493001S6ND3ULAKYF67
 
 ol:5493001U44U18AGEVX50
     <http://dbpedia.org/property/founder> "Edwin Ruthven Weeks, Joseph S. Chick, L.R. Moore, William Holmes" .
-
-ol:5493001X29LR5D1JO376
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:5493001YX5TJ4SSAGB67
     <http://dbpedia.org/property/founder> "Orrin Henry Ingram" .
@@ -1557,7 +1339,6 @@ ol:5493002XTEU7MHAB0K22
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Randy_Dearth> .
 
 ol:5493002YMVDZ68BR3D81
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126 ;
     <http://dbpedia.org/property/founder> "Craig Bramscher" .
 
 ol:54930032OTIZGQSRO180
@@ -1592,9 +1373,6 @@ ol:5493003KYFDDC5B3WY64
 ol:5493003OYMMDPXMVT441
     <http://dbpedia.org/property/founder> "Arthur I. Vorys, Lowry F. Sater, Augustus T. Seymour, and Edward L. Pease" .
 
-ol:5493003PZ4F570G3W735
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 .
-
 ol:5493003Q1BFSMU7P0U35
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/James_V._Mazzo>, <http://dbpedia.org/resource/Michael_J._Lambert>, viaf:2640774 .
 
@@ -1627,7 +1405,7 @@ ol:5493003YK076OLTEQF95
 
 ol:54930042N26VW2OAKS35
     <http://dbpedia.org/ontology/chairman> gnd:172773334, <http://de.dbpedia.org/resource/Dan_Ammann>, <http://de.dbpedia.org/resource/Karl-Thomas_Neumann>, viaf:212331208 ;
-    <http://dbpedia.org/property/founder> gnd:11931049, <http://dbpedia.org/resource/Adam_Opel>, viaf:42645374 .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Adam_Opel>, viaf:42645374 .
 
 ol:54930047K48HH1813B05
     <http://dbpedia.org/property/founder> "Richard Petri", "Takezo Takada" .
@@ -1665,7 +1443,6 @@ ol:5493004P4H8ZQPCUJ047
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_McGillicuddy>, <http://dbpedia.org/resource/Walter_V._Shipley>, <http://dbpedia.org/resource/William_B._Harrison,_Jr.> .
 
 ol:5493004PWQ01YDD1IH62
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Fabiana_Chubbs>, <http://dbpedia.org/resource/Norm_Pitcher>, <http://dbpedia.org/resource/Paul_N._Wright>, <http://dbpedia.org/resource/Paul_Skayman> ;
     <http://dbpedia.org/property/founder> "Richard Barclay, Michael Beley,Gary D. Nordin, Marco Romero, Chester Millar" .
 
@@ -1722,7 +1499,7 @@ ol:5493005GY7GGIWQ45M70
     <http://dbpedia.org/property/founder> "David W. Friesen" .
 
 ol:5493005HLZC39SLAT232
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Non-executive_director> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Non-executive_director> .
 
 ol:5493005JT54IX5MZ9P52
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dani_Reiss> ;
@@ -1751,7 +1528,7 @@ ol:5493005WD1ZK6WBVR988
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Henry_H._Ketcham> .
 
 ol:549300615CPXQO52J309
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006, <http://dbpedia.org/resource/Assen_Yagodin> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Assen_Yagodin> .
 
 ol:54930062JS29A5N4GO82
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dave_Calhoun>, <http://dbpedia.org/resource/Karen_Kornbluh>, <http://dbpedia.org/resource/Mark_Leiter_(businessman)> .
@@ -1761,8 +1538,8 @@ ol:54930063LT0MIQZ6U227
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Frederick_Hampden_Winston> .
 
 ol:54930067ZPEG8H2PPN39
-    <http://dbpedia.org/ontology/chairman> gnd:13062425, <http://de.dbpedia.org/resource/Ronald_Lauder>, viaf:38323682 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:13062425, <http://dbpedia.org/resource/Co-CEOs>, <http://dbpedia.org/resource/Ronald_Lauder>, viaf:38323682 .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Ronald_Lauder>, viaf:38323682 ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Co-CEOs>, <http://dbpedia.org/resource/Ronald_Lauder>, viaf:38323682 .
 
 ol:549300685QG7DJS55M76
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/José_Ignacio_Goirigolzarri> .
@@ -1826,7 +1603,7 @@ ol:54930078ZMJ096ZQCE74
     <http://dbpedia.org/property/founder> "Prudencio Unanue Ortiz" .
 
 ol:54930079PFDLTZH0C933
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Jeffrey_Hollender>, <http://dbpedia.org/resource/John_Replogle> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jeffrey_Hollender>, <http://dbpedia.org/resource/John_Replogle> .
 
 ol:5493007AITUJ9X4UWV14
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Daniel_E._Friedmann> .
@@ -1921,10 +1698,7 @@ ol:5493008LN3O1DIDTSH67
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Galen_Weston,_Jr.> .
 
 ol:5493008MIJR7VMQP7U77
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Stephen_J._Cloobeck> .
-
-ol:5493008OWN3GUZK1EW25
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Stephen_J._Cloobeck> .
 
 ol:5493008S8WYPIT0LWO97
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/James_C._Foster> .
@@ -1988,13 +1762,10 @@ ol:549300AKX7O8JG0O3G77
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dan_Rosensweig> .
 
 ol:549300AOIHJLVBZSGO06
-    <http://dbpedia.org/ontology/keyPerson> gnd:4037589, <http://dbpedia.org/resource/Marketing> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Marketing> .
 
 ol:549300AP10THMU4QNT45
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Frederik_W._Mohn>, <http://dbpedia.org/resource/Trond_Mohn> .
-
-ol:549300AZ0JTVTW3IZY37
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
 
 ol:549300AZHDQ5SXVV1X52
     <http://dbpedia.org/property/founder> "Edward G. Ryan" .
@@ -2053,9 +1824,6 @@ ol:549300C7FTIZXB9IEJ02
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Duncan_Aldred> ;
     <http://dbpedia.org/property/founder> "Alexander Wilson" .
 
-ol:549300C83PTZH4XCFV68
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:549300C86G4JLR01YF53
     <http://dbpedia.org/property/founder> "Rémi Marcoux, Claude Dubois and André Kingsley" .
 
@@ -2083,7 +1851,7 @@ ol:549300CNR5Y5I0PMPZ55
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Al_Reser> .
 
 ol:549300CP8NY40UP89Q40
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Gerd_Krick>, <http://de.dbpedia.org/resource/Rice_Powell> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Gerd_Krick>, <http://de.dbpedia.org/resource/Rice_Powell> .
 
 ol:549300CQ6M9Q0TJEZR23
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Sayajirao_Gaekwad_III> .
@@ -2141,7 +1909,7 @@ ol:549300DLRO5Q625BI570
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Chris_Bloomer>, <http://dbpedia.org/resource/Greg_Pollard>, <http://dbpedia.org/resource/Jesse_J._Beaudry>, <http://dbpedia.org/resource/Merle_D._Johnson> .
 
 ol:549300DPP8ACTS8VM749
-    <http://dbpedia.org/ontology/keyPerson> gnd:13246411, <http://dbpedia.org/resource/Henry_Hoare>, <http://dbpedia.org/resource/Richard_Hoare>, viaf:20845756 .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Henry_Hoare>, <http://dbpedia.org/resource/Richard_Hoare>, viaf:20845756 .
 
 ol:549300DRQQI75D2JP341
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Kelly_King> .
@@ -2231,11 +1999,11 @@ ol:549300EUZXBS9WZ2E813
 
 ol:549300EVUN2BTLJ3GT74
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Stephen_M._Smith> ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Al_Avery>, <http://dbpedia.org/resource/Jay_Adelson> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Al_Avery>, <http://dbpedia.org/resource/Jay_Adelson> .
 
 ol:549300F5SP4ZSVN4CO46
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/John_Paul_DeJoria> ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/John_Paul_DeJoria> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_Paul_DeJoria> .
 
 ol:549300F77I37KQ36P692
     <http://dbpedia.org/property/founder> "Samuel V. Blair" .
@@ -2257,9 +2025,6 @@ ol:549300FFM2BEH2GF1E44
 
 ol:549300FMCOKPL06FYN26
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Alan_Trefler>, <http://dbpedia.org/resource/Douglas_Kra>, <http://dbpedia.org/resource/Kerim_Akgonul>, <http://dbpedia.org/resource/Leon_Trefler>, <http://dbpedia.org/resource/Louis_Blatt>, <http://dbpedia.org/resource/Max_Mayer>, <http://dbpedia.org/resource/Mike_Pyle>, <http://dbpedia.org/resource/Rafe_Brown>, <http://dbpedia.org/resource/Robert_Tas> .
-
-ol:549300FQDIM6C8HTN269
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 .
 
 ol:549300FRNNT8MN4FE461
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Mark_Breitbard> .
@@ -2292,7 +2057,6 @@ ol:549300G3INTL3S7CBI07
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/John_Tu>, "David Sun" .
 
 ol:549300G8G1R16J8L5Q60
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Leo_Fender>, viaf:67408498 .
 
 ol:549300GAJY38ZVX1UG02
@@ -2420,7 +2184,7 @@ ol:549300I9MS5UZLRFDO40
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Elwood_Haynes> .
 
 ol:549300IARG6YWVTZ1I92
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Chuck_Williams_(author)>, <http://dbpedia.org/resource/Laura_J._Alber> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Chuck_Williams_(author)>, <http://dbpedia.org/resource/Laura_J._Alber> .
 
 ol:549300IDDWYDMY9B7263
     <http://dbpedia.org/property/founder> "Philander Knox and James Hay Reed" .
@@ -2450,7 +2214,7 @@ ol:549300IM1QSBY4SLPM26
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jon_Fredrik_Baksaas>, <http://dbpedia.org/resource/Svein_Aaser> .
 
 ol:549300IQ20FVEB0N5684
-    <http://dbpedia.org/property/founder> gnd:11937126, <http://dbpedia.org/resource/Valentino_Garavani>, viaf:96112075 .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Valentino_Garavani>, viaf:96112075 .
 
 ol:549300IT8CIDW8V5KX72
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/James_Temerty> ;
@@ -2677,9 +2441,6 @@ ol:549300MLGBPXJCQC6275
 ol:549300MY7HLQFYTPCX75
     <http://dbpedia.org/property/founder> "Edward V. Sundt" .
 
-ol:549300MZ7NGUZDCP2T16
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:549300N03XQR27RJXA70
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Michael_Yang> .
 
@@ -2730,9 +2491,6 @@ ol:549300NNJKVSO48I3G76
 
 ol:549300NP85N265KWMS58
     <http://dbpedia.org/property/founder> "Stephen Wilcox and George Herman Babcock" .
-
-ol:549300NPYMLM4NHTOF27
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 .
 
 ol:549300NRCR0IO3ZHSE46
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Paul_D._House> ;
@@ -2803,7 +2561,7 @@ ol:549300ONBUTV20237K19
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Marcus_Wallenberg> .
 
 ol:549300OQHYGBN8W1QP06
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/David_Clementi> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/David_Clementi> .
 
 ol:549300OR9TMNAZQ01Y66
     <http://dbpedia.org/property/founder> "Ruth Campbell Bigelow" .
@@ -2931,7 +2689,7 @@ ol:549300R3N69ECGYPU434
 
 ol:549300R3VIRUT1HQ2U18
     <http://dbpedia.org/ontology/chairman> gnd:1012788024, <http://de.dbpedia.org/resource/Martin_Licher>, <http://de.dbpedia.org/resource/Wolf_Bauer_(Filmproduzent)>, viaf:171359213 ;
-    <http://dbpedia.org/property/founder> gnd:4253760, <http://dbpedia.org/resource/Cabinet_of_Germany> .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Cabinet_of_Germany> .
 
 ol:549300R42UWYGK2H8204
     <http://dbpedia.org/property/founder> "Joe Kirby" .
@@ -3041,7 +2799,6 @@ ol:549300TLZPT6JELDWM92
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Björgólfur_Guðmundsson> .
 
 ol:549300TMC6BYESPQ7W85
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dubravko_Štimac>, <http://dbpedia.org/resource/Zvonimir_Mršić> ;
     <http://dbpedia.org/property/founder> "Marijan & Matija Wolf" .
 
@@ -3052,7 +2809,7 @@ ol:549300TO5UQX4ZDKZ668
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Melville_Reuben_Bissell> .
 
 ol:549300TO70LQC2GV7A35
-    <http://dbpedia.org/property/founder> gnd:12300229, <http://dbpedia.org/resource/William_Fox_(producer)>, viaf:27967666 .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/William_Fox_(producer)>, viaf:27967666 .
 
 ol:549300TOLR75Y76SSF65
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/MFA_Incorporated> .
@@ -3089,9 +2846,6 @@ ol:549300U065YUBR4NXJ94
 ol:549300U0I8MU5EFWIC94
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Glen_Taylor> .
 
-ol:549300U0M5C5GHYHI326
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 .
-
 ol:549300U1JWW9SCOH3W56
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Kevin_Tsujihara> ;
     <http://dbpedia.org/property/founder> gnd:119031051, <http://dbpedia.org/resource/Albert_Warner>, <http://dbpedia.org/resource/Harry_Warner>, <http://dbpedia.org/resource/Jack_Warner>, <http://dbpedia.org/resource/Sam_Warner>, viaf:17483603, viaf:55740413 .
@@ -3103,7 +2857,7 @@ ol:549300U3721PJGQZYY68
     <http://dbpedia.org/property/founder> "Victor Ciardelli" .
 
 ol:549300U3Y8OW3GQ0VE25
-    <http://dbpedia.org/ontology/keyPerson> gnd:4126457, <http://dbpedia.org/resource/Business_communication>, <http://dbpedia.org/resource/Consultant>, <http://dbpedia.org/resource/Quality_assurance>, <http://dbpedia.org/resource/Research_and_development> ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Business_communication>, <http://dbpedia.org/resource/Consultant>, <http://dbpedia.org/resource/Quality_assurance>, <http://dbpedia.org/resource/Research_and_development> ;
     <http://dbpedia.org/property/founder> "Aristide Lassonde" .
 
 ol:549300U7MCZE9XX37C61
@@ -3113,7 +2867,7 @@ ol:549300UBXUDQ5PY7KH54
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Stan_Vanderwaal> .
 
 ol:549300UDG16DOYUPR330
-    <http://dbpedia.org/ontology/chairman> gnd:141242760, gnd:189558938, gnd:4003550, <http://de.dbpedia.org/resource/Heinrich_Hiesinger>, <http://de.dbpedia.org/resource/Ulrich_Lehner>, viaf:120850396, viaf:220525703 ;
+    <http://dbpedia.org/ontology/chairman> gnd:141242760, gnd:189558938, <http://de.dbpedia.org/resource/Heinrich_Hiesinger>, <http://de.dbpedia.org/resource/Ulrich_Lehner>, viaf:120850396, viaf:220525703 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:141242760, <http://dbpedia.org/resource/Heinrich_Hiesinger>, viaf:120850396 .
 
 ol:549300UEBMAQDN0K0R06
@@ -3163,16 +2917,16 @@ ol:549300V040JZX5S66Z78
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Dean_A._Connor>, <http://dbpedia.org/resource/FIA_(disambiguation)>, <http://dbpedia.org/resource/James_H._Sutcliffe> .
 
 ol:549300V38O2VAAH56I37
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Michael_Scheeren>, <http://de.dbpedia.org/resource/Robert_Hoffmann_(Manager)> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Michael_Scheeren>, <http://de.dbpedia.org/resource/Robert_Hoffmann_(Manager)> .
 
 ol:549300V3FTYPI61H4S97
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006, gnd:7588126, <http://dbpedia.org/resource/Advisory_board> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Advisory_board> .
 
 ol:549300V6XJXIT0VLHA91
     <http://dbpedia.org/ontology/keyPerson> gnd:118900463, <http://dbpedia.org/resource/Al_Gore>, viaf:98777888 .
 
 ol:549300V9QSIG4WX4GJ96
-    <http://dbpedia.org/ontology/chairman> gnd:14183983, gnd:189558938, gnd:4003550, <http://de.dbpedia.org/resource/Timotheus_Höttges>, <http://de.dbpedia.org/resource/Ulrich_Lehner>, viaf:142651947, viaf:220525703 .
+    <http://dbpedia.org/ontology/chairman> gnd:189558938, <http://de.dbpedia.org/resource/Timotheus_Höttges>, <http://de.dbpedia.org/resource/Ulrich_Lehner>, viaf:142651947, viaf:220525703 .
 
 ol:549300VC7VDIBH4H6749
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Specialized> ;
@@ -3224,7 +2978,7 @@ ol:549300W1OGQF5LZIH349
 
 ol:549300W3HBISRNJS8308
     <http://dbpedia.org/ontology/keyPerson> gnd:118892401, <http://dbpedia.org/resource/Rupert_Murdoch>, viaf:85338033 ;
-    <http://dbpedia.org/property/founder> gnd:120859998, gnd:17353449, <http://dbpedia.org/resource/Darryl_F._Zanuck>, <http://dbpedia.org/resource/Joseph_M._Schenck>, viaf:23589321, viaf:41858225 .
+    <http://dbpedia.org/property/founder> gnd:120859998, <http://dbpedia.org/resource/Darryl_F._Zanuck>, <http://dbpedia.org/resource/Joseph_M._Schenck>, viaf:23589321, viaf:41858225 .
 
 ol:549300W4F6T69G0MGH35
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Moses_Hampton>, viaf:4081019 .
@@ -3360,7 +3114,7 @@ ol:549300Y0HHMFW3EVWY08
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Yoshinobu_Tsutsui> .
 
 ol:549300Y16R531AU8TX77
-    <http://dbpedia.org/ontology/keyPerson> gnd:4059594, gnd:7588126, <http://dbpedia.org/resource/AR_Sanchez_Sr>, <http://dbpedia.org/resource/Texas>, viaf:152620751 .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/AR_Sanchez_Sr>, <http://dbpedia.org/resource/Texas>, viaf:152620751 .
 
 ol:549300Y3HHZB1ZGFPJ93
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Keith_McLoughlin>, <http://dbpedia.org/resource/Ronnie_Leten> .
@@ -3370,7 +3124,7 @@ ol:549300Y650407RU8B149
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Jay_S._Fishman> .
 
 ol:549300Y6XG7XTHKBKZ78
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Creative_director> ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Creative_director> ;
     <http://dbpedia.org/property/founder> "Richard \"Wooly\" Woolcott Tucker \"T-Dawg\" Hall" .
 
 ol:549300Y7FWSTSHMW5Y57
@@ -3398,9 +3152,6 @@ ol:549300YL04U005WJH709
 
 ol:549300YNNLBXT8N8R512
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Michael_J._Long>, <http://dbpedia.org/resource/Paul_J._Reilly> .
-
-ol:549300YRY8XL8OHKIE42
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126 .
 
 ol:549300YTF5QU2PVCJ727
     <http://dbpedia.org/property/founder> "Pehr Adolf Janson" .
@@ -3455,7 +3206,7 @@ ol:549300ZMTUHRRVIEYP38
     <http://dbpedia.org/property/founder> "Jim McArthur", "Rick Forsythe" .
 
 ol:549300ZNNKE1UFGNNE47
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006, <http://dbpedia.org/resource/Mats_Qviberg>, <http://dbpedia.org/resource/Sven_Hagströmer> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Mats_Qviberg>, <http://dbpedia.org/resource/Sven_Hagströmer> .
 
 ol:549300ZNNO34O8GXUE47
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Chris_Viehbacher> .
@@ -3481,9 +3232,6 @@ ol:549300ZX07JYMI8GHQ39
 
 ol:549300ZXH0VRBSEPX752
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Ralph_M._Parsons> .
-
-ol:55S3547PRDP469JRO238
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006 .
 
 ol:58PU97L1C0WSRCWADL48
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Richard_B._Handler> ;
@@ -3596,20 +3344,14 @@ ol:71DLQOLPC3WJNNTLUN59
 ol:7245001I22ND6ZFHX623
     <http://dbpedia.org/property/founder> "Arthur del Prado" .
 
-ol:72450032NPOX5UJQTI97
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 .
-
 ol:7245009EAAUUQJ0U4T57
     <http://dbpedia.org/property/founder> gnd:130403695, <http://dbpedia.org/resource/Frits_Goldschmeding> .
 
 ol:7245009KKJF1HTYCI230
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Gary_Kovacs>, <http://dbpedia.org/resource/Yuval_Ben-Itzhak> .
 
-ol:724500C9GNBV20UYRX36
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 .
-
 ol:724500DWE10NNL1AXZ52
-    <http://dbpedia.org/ontology/keyPerson> gnd:13778841, <http://dbpedia.org/resource/Gerrit_Zalm>, viaf:55994176 .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Gerrit_Zalm>, viaf:55994176 .
 
 ol:724500EJ2TDPAITRSJ55
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Gertjan_J._Lankhorst> .
@@ -3666,7 +3408,6 @@ ol:743700BKTW4EQIVKYY42
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Kari_Kauniskangas> .
 
 ol:743700G7A9J1PHM3X223
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Mikael_Lilius> .
 
 ol:743700UF3RL386WIDA22
@@ -3699,11 +3440,11 @@ ol:7ZS3DE5PN30BYUJFWP05
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/John_D._Craig>, <http://de.dbpedia.org/resource/Michael_T._Philion>, <http://de.dbpedia.org/resource/Richard_W._Zuidema> .
 
 ol:7ZW8QJWVPR4P1J1KQY45
-    <http://dbpedia.org/ontology/chairman> gnd:13271163, gnd:142238074, <http://de.dbpedia.org/resource/Eric_Schmidt>, <http://de.dbpedia.org/resource/Larry_Page>, viaf:181632109, viaf:35624513 ;
+    <http://dbpedia.org/ontology/chairman> gnd:142238074, <http://de.dbpedia.org/resource/Eric_Schmidt>, <http://de.dbpedia.org/resource/Larry_Page>, viaf:181632109, viaf:35624513 ;
     <http://dbpedia.org/property/founder> "p112" .
 
 ol:815600195185E5E98791
-    <http://dbpedia.org/property/founder> gnd:11937126, <http://dbpedia.org/resource/Valentino_Garavani>, viaf:96112075 .
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Valentino_Garavani>, viaf:96112075 .
 
 ol:824LMFJDH41EY779Q875
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_V._Faraci> .
@@ -3712,13 +3453,13 @@ ol:84CSVZ1N89F345OSJT09
     <http://dbpedia.org/property/founder> "William Besserdich, Bernhard Mosling" .
 
 ol:851WYGNLUQLFZBSYGB56
-    <http://dbpedia.org/ontology/keyPerson> gnd:133450201, gnd:13906852, <http://dbpedia.org/resource/Klaus-Peter_Müller>, <http://dbpedia.org/resource/Martin_Blessing> .
+    <http://dbpedia.org/ontology/keyPerson> gnd:133450201, <http://dbpedia.org/resource/Klaus-Peter_Müller>, <http://dbpedia.org/resource/Martin_Blessing> .
 
 ol:87DR6WT2MK1KMGUC7161
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Tom_Steyer> .
 
 ol:89ZNKI3R2FX5KVZOWG30
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, gnd:4172229, <http://de.dbpedia.org/resource/Ivo_Grünhagen>, <http://de.dbpedia.org/resource/Jörg_Dehm>, <http://de.dbpedia.org/resource/Oberbürgermeister> .
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Ivo_Grünhagen>, <http://de.dbpedia.org/resource/Jörg_Dehm>, <http://de.dbpedia.org/resource/Oberbürgermeister> .
 
 ol:8E6NF1YAL0WT6CWXXV93
     <http://dbpedia.org/ontology/chairman> gnd:124100783, <http://de.dbpedia.org/resource/John_Chambers_(Manager)>, viaf:166460533 ;
@@ -3826,7 +3567,6 @@ ol:AI8GXW8LG5WK7E9UD086
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Richard_C._Gozon>, <http://dbpedia.org/resource/Steven_H._Collis> .
 
 ol:AR5L2ODV9HN37376R084
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Ajaypal_Singh_Banga> .
 
 ol:B0I35MLPFXZSE70ASS73
@@ -3854,7 +3594,7 @@ ol:BFM8T61CT2L1QCEMIK50
     <http://dbpedia.org/ontology/keyPerson> gnd:111964695, <http://dbpedia.org/resource/Axel_A._Weber>, viaf:15407847 .
 
 ol:BFXS5XCH7N0Y05NIXW11
-    <http://dbpedia.org/ontology/keyPerson> gnd:13778841, <http://dbpedia.org/resource/Gerrit_Zalm>, viaf:55994176 .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Gerrit_Zalm>, viaf:55994176 .
 
 ol:BOMSTHHJK882EWYX3334
     <http://dbpedia.org/property/founder> "Ryan Brant" .
@@ -4027,7 +3767,7 @@ ol:G8NWFN4YP7CR6FOP4886
     <http://dbpedia.org/property/founder> gnd:136978142, <http://dbpedia.org/resource/Earl_Tupper>, viaf:261514990 .
 
 ol:GA3JGKJ41LJKXDN23E90
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Pitt_Hyde>, <http://dbpedia.org/resource/William_C._Rhodes_(businessman)> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Pitt_Hyde>, <http://dbpedia.org/resource/William_C._Rhodes_(businessman)> .
 
 ol:GCT7RXJOGLXPV0NXZY22
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Lip-Bu_Tan> .
@@ -4044,7 +3784,7 @@ ol:GLS7OQD0WOEDI8YAP031
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Prem_Watsa> .
 
 ol:GLU7INWNWH88J9XBXD45
-    <http://dbpedia.org/ontology/chairman> gnd:4303006, <http://de.dbpedia.org/resource/Ellen_J._Kullman> ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Ellen_J._Kullman> ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Ellen_J._Kullman> ;
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Eleuthère_Irénée_du_Pont> .
 
@@ -4087,7 +3827,6 @@ ol:HO0K6ZULL3QE6S6SFW60
     <http://dbpedia.org/property/founder> gnd:130675679, <http://dbpedia.org/resource/Ignace_Bourget>, viaf:14920347 .
 
 ol:HO1QNWM0IXBZ0QSMMO20
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 ;
     <http://dbpedia.org/property/founder> gnd:118875116, <http://dbpedia.org/resource/Ralph_Lauren>, viaf:54470621 .
 
 ol:HP4455X23HMJWUDSIO96
@@ -4222,7 +3961,7 @@ ol:KFFV4ZWM9DJH1ND3BD89
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Henry_Nicholas>, <http://dbpedia.org/resource/Henry_Samueli> .
 
 ol:KHCL65TP05J1HUW2D560
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006, <http://dbpedia.org/resource/Group_chief_executive_officer> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Group_chief_executive_officer> .
 
 ol:KNG3XRAA0RHN9H62OK76
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Jeffrey_Bewkes> ;
@@ -4242,8 +3981,8 @@ ol:KVWHW7YLZPFJM8QYNJ51
     <http://dbpedia.org/property/founder> "Clarence W. Spicer, Charles A. Dana, Joseph Victor, Hugo Reinz, J.B. Long" .
 
 ol:KY37LUS27QQX7BB93L28
-    <http://dbpedia.org/ontology/chairman> gnd:14263980, <http://de.dbpedia.org/resource/Paul_Bulcke>, <http://de.dbpedia.org/resource/Peter_Brabeck-Letmathe>, viaf:132133905 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:14263980, <http://dbpedia.org/resource/Paul_Bulcke>, <http://dbpedia.org/resource/Peter_Brabeck-Letmathe>, <http://dbpedia.org/resource/Wan_Ling_Martello>, viaf:132133905 ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Paul_Bulcke>, <http://de.dbpedia.org/resource/Peter_Brabeck-Letmathe>, viaf:132133905 ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Paul_Bulcke>, <http://dbpedia.org/resource/Peter_Brabeck-Letmathe>, <http://dbpedia.org/resource/Wan_Ling_Martello>, viaf:132133905 ;
     <http://dbpedia.org/property/founder> "Henri Nestlé, Charles Page, George Page" .
 
 ol:L2EVHWFHVAQK72TMH265
@@ -4262,7 +4001,7 @@ ol:L38MWB8MVRFV7HVJPU11
     <http://dbpedia.org/property/founder> "Harold Anderson" .
 
 ol:L47NHHI0Z9X22DV46U41
-    <http://dbpedia.org/ontology/chairman> gnd:110005155, gnd:4003550, <http://de.dbpedia.org/resource/Reinhard_Pöllath>, <http://de.dbpedia.org/resource/Stefan_F._Heidenreich>, viaf:44888851 ;
+    <http://dbpedia.org/ontology/chairman> gnd:110005155, <http://de.dbpedia.org/resource/Reinhard_Pöllath>, <http://de.dbpedia.org/resource/Stefan_F._Heidenreich>, viaf:44888851 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:110005155, <http://dbpedia.org/resource/Reinhard_Pöllath>, <http://dbpedia.org/resource/Stefan_F._Heidenreich>, viaf:44888851 .
 
 ol:LAXUQCHT4FH58LRZDY46
@@ -4287,7 +4026,7 @@ ol:LUZQVYP4VS22CLWDAR65
     <http://dbpedia.org/property/founder> "Dr. Danley Budd", "Henry Bryan", "Hermon Cable", "John Dwan", "William McGonagle" .
 
 ol:LZ2C6E0W5W7LQMX5ZI37
-    <http://dbpedia.org/ontology/chairman> gnd:1012766047, gnd:4003550, <http://de.dbpedia.org/resource/Bernd_Scheifele> .
+    <http://dbpedia.org/ontology/chairman> gnd:1012766047, <http://de.dbpedia.org/resource/Bernd_Scheifele> .
 
 ol:MB0UERO0RDFKU8258G77
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Chip_Bergh>, <http://de.dbpedia.org/resource/Harmit_Singh>, <http://de.dbpedia.org/resource/Stephen_C._Neal> ;
@@ -4337,7 +4076,6 @@ ol:NKFP7BJ6WYEV4I24P532
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/George_Zimmer> .
 
 ol:NNROIXVWJ7CPSR27SV97
-    <http://dbpedia.org/ontology/chairman> gnd:4003550 ;
     <http://dbpedia.org/property/founder> "Philipp Mühsam" .
 
 ol:NO9X1VSZ0FTLOJMCQD79
@@ -4367,7 +4105,7 @@ ol:OML71K8X303XQONU6T67
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Pierre_Omidyar>, viaf:31410047 .
 
 ol:OQSJ1DU9TAOC51A47K68
-    <http://dbpedia.org/ontology/chairman> gnd:4003550, <http://de.dbpedia.org/resource/Howard_Schultz>, viaf:57474240 ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Howard_Schultz>, viaf:57474240 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Howard_Schultz>, viaf:57474240 ;
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Jerry_Baldwin>, "Gordon Bowker", "Zev Siegl" .
 
@@ -4450,8 +4188,7 @@ ol:Q2GQA2KF6XJ24W42G291
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Richie_Boucher> .
 
 ol:Q9MAIUP40P25UFBFG033
-    <http://dbpedia.org/ontology/chairman> gnd:1011402270, gnd:136683355, gnd:4003550, <http://de.dbpedia.org/resource/Johannes_Teyssen>, <http://de.dbpedia.org/resource/Werner_Wenning>, viaf:54799822, viaf:80986944 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:1011402270, gnd:136683355, <http://de.dbpedia.org/resource/Johannes_Teyssen>, <http://de.dbpedia.org/resource/Werner_Wenning>, viaf:54799822, viaf:80986944 .
 
 ol:QEKMOTMBBKA8I816DO57
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Frank_Blake> ;
@@ -4459,7 +4196,7 @@ ol:QEKMOTMBBKA8I816DO57
     <http://dbpedia.org/property/founder> "Bernard MarcusArthur BlankRon BrillPat Farrah" .
 
 ol:QG7T915N9S0NY5UKNE63
-    <http://dbpedia.org/ontology/keyPerson> gnd:7588126, <http://dbpedia.org/resource/Aart_de_Geus> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Aart_de_Geus> .
 
 ol:QHF0YTOE8OP1LN1NBT86
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Choi_Kwang_(economist)> .
@@ -4550,11 +4287,7 @@ ol:TPHWKPW6MRKN6NESLU52
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Ronald_J._Mittelstaedt> .
 
 ol:TSI2PJM6EPETEQ4X1U25
-    <http://dbpedia.org/ontology/chairman> gnd:1031955240, gnd:4003550, <http://de.dbpedia.org/resource/Reinhard_Ploss>, <http://de.dbpedia.org/resource/Wolfgang_Mayrhuber> ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 .
-
-ol:TUKDD90GPC79G1KOE162
-    <http://dbpedia.org/ontology/keyPerson> gnd:4003550 .
+    <http://dbpedia.org/ontology/chairman> gnd:1031955240, <http://de.dbpedia.org/resource/Reinhard_Ploss>, <http://de.dbpedia.org/resource/Wolfgang_Mayrhuber> .
 
 ol:TVRMNZKRGA8LPW6XPG60
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/James_C._Kennedy> ;
@@ -4613,7 +4346,7 @@ ol:W2D68G5NJH4X0NW8PT65
     <http://dbpedia.org/property/founder> "Harry V. Quadracci" .
 
 ol:W38RGI023J3WT1HWRP32
-    <http://dbpedia.org/ontology/chairman> gnd:134217497, gnd:4003550, <http://de.dbpedia.org/resource/Gerhard_Cromme>, <http://de.dbpedia.org/resource/Joe_Kaeser>, viaf:28284961 ;
+    <http://dbpedia.org/ontology/chairman> gnd:134217497, <http://de.dbpedia.org/resource/Gerhard_Cromme>, <http://de.dbpedia.org/resource/Joe_Kaeser>, viaf:28284961 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Joe_Kaeser> ;
     <http://dbpedia.org/property/founder> gnd:118614088, <http://dbpedia.org/resource/Werner_von_Siemens>, viaf:77108808 .
 
@@ -4634,7 +4367,7 @@ ol:WHENKOULSSK7WUM60H03
     <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Frederick_and_Louis_Upton>, "Emory Upton" .
 
 ol:WHKXQACZ14C5XRO8LW03
-    <http://dbpedia.org/ontology/chairman> gnd:4303006, <http://de.dbpedia.org/resource/Meg_Whitman>, viaf:16631084 ;
+    <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Meg_Whitman>, viaf:16631084 ;
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Meg_Whitman>, <http://dbpedia.org/resource/Ralph_V_Whitworth>, viaf:16631084 ;
     <http://dbpedia.org/property/founder> gnd:1024497771, gnd:119407280, <http://dbpedia.org/resource/David_Packard>, <http://dbpedia.org/resource/William_Redington_Hewlett>, viaf:114831631, viaf:88562708 .
 
@@ -4650,9 +4383,9 @@ ol:WT03B8BB1IX8WI9ZGV02
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Business_development> .
 
 ol:WTV8QGD5UD7MMD4HS345
-    <http://dbpedia.org/ontology/chairman> gnd:12322344, gnd:123956374, gnd:4003550, <http://de.dbpedia.org/resource/Manfred_Schneider_(Manager)>, <http://de.dbpedia.org/resource/Wolfgang_Reitzle>, viaf:37838730, viaf:915484 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:12322344, <http://dbpedia.org/resource/Wolfgang_Reitzle>, viaf:915484 ;
-    <http://dbpedia.org/property/founder> gnd:11857311, <http://dbpedia.org/resource/Carl_von_Linde>, viaf:804246 .
+    <http://dbpedia.org/ontology/chairman> gnd:123956374, <http://de.dbpedia.org/resource/Manfred_Schneider_(Manager)>, <http://de.dbpedia.org/resource/Wolfgang_Reitzle>, viaf:37838730, viaf:915484 ;
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Wolfgang_Reitzle>, viaf:915484 ;
+    <http://dbpedia.org/property/founder> <http://dbpedia.org/resource/Carl_von_Linde>, viaf:804246 .
 
 ol:X0ST5BPF0CZG9FE5OV61
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Philippe_Dauman>, <http://dbpedia.org/resource/Sumner_Redstone>, viaf:26407484 .
@@ -4670,7 +4403,7 @@ ol:X7S1ODMVTNW3VI2I8B02
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_Catsimatidis> .
 
 ol:XDFJ0CYCOO1FXRFTQS51
-    <http://dbpedia.org/ontology/chairman> gnd:171093631, gnd:4003550, <http://de.dbpedia.org/resource/Ulf_Schneider>, viaf:199026419 ;
+    <http://dbpedia.org/ontology/chairman> gnd:171093631, <http://de.dbpedia.org/resource/Ulf_Schneider>, viaf:199026419 ;
     <http://dbpedia.org/ontology/keyPerson> gnd:171093631, <http://dbpedia.org/resource/Ulf_Mark_Schneider>, viaf:199026419 .
 
 ol:XE2KCQGOGYZ847CKN141
@@ -4704,8 +4437,7 @@ ol:Y6X4K52KMJMZE7I7MY94
     <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Douglas_L._Peterson>, <http://dbpedia.org/resource/Harold_McGraw_III> .
 
 ol:Y6ZDD9FP4P8JSSJMW954
-    <http://dbpedia.org/ontology/chairman> gnd:4303006 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:4303006, <http://dbpedia.org/resource/John_Abele>, <http://dbpedia.org/resource/Peter_Nicholas_(businessman)> .
+    <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/John_Abele>, <http://dbpedia.org/resource/Peter_Nicholas_(businessman)> .
 
 ol:Y87794H0US1R65VBXU25
     <http://dbpedia.org/ontology/chairman> <http://de.dbpedia.org/resource/Doug_McMillon> ;
@@ -4716,8 +4448,8 @@ ol:YAWJZJYEQ7M1SYMOS462
     <http://dbpedia.org/property/founder> "Gerald Williamson" .
 
 ol:YEH5ZCD6E441RHVHD759
-    <http://dbpedia.org/ontology/chairman> gnd:121618390, gnd:14034604, gnd:4003550, <http://de.dbpedia.org/resource/Joachim_Milberg>, <http://de.dbpedia.org/resource/Norbert_Reithofer>, viaf:17863568, viaf:20542471 ;
-    <http://dbpedia.org/ontology/keyPerson> gnd:1026463807, gnd:121618390, gnd:14034604, <http://dbpedia.org/resource/Adrian_van_Hooydonk>, <http://dbpedia.org/resource/Joachim_Milberg>, <http://dbpedia.org/resource/Norbert_Reithofer>, viaf:17863568, viaf:20542471, viaf:264097530 ;
+    <http://dbpedia.org/ontology/chairman> gnd:121618390, <http://de.dbpedia.org/resource/Joachim_Milberg>, <http://de.dbpedia.org/resource/Norbert_Reithofer>, viaf:17863568, viaf:20542471 ;
+    <http://dbpedia.org/ontology/keyPerson> gnd:1026463807, gnd:121618390, <http://dbpedia.org/resource/Adrian_van_Hooydonk>, <http://dbpedia.org/resource/Joachim_Milberg>, <http://dbpedia.org/resource/Norbert_Reithofer>, viaf:17863568, viaf:20542471, viaf:264097530 ;
     <http://dbpedia.org/property/founder> gnd:139222812, <http://dbpedia.org/resource/Franz_Josef_Popp>, viaf:100515786 .
 
 ol:YF6ZV0M6AU4FY94MK914
