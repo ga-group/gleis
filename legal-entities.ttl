@@ -2553,6 +2553,13 @@ ol:5299003H6EM87RKRHM83
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Raiffeisenbank_Sulzbach-Rosenberg> .
 
+ol:5299003HAEOUVX3HWX43
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Vossloh Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Vossloh>, <http://fr.dbpedia.org/resource/Vossloh>, <http://de.dbpedia.org/resource/Vossloh>, <http://wikidata.dbpedia.org/resource/Q689256>, <http://es.dbpedia.org/resource/Vossloh>, <http://it.dbpedia.org/resource/Vossloh_AG>, <http://ja.dbpedia.org/resource/フォスロ>, <http://nl.dbpedia.org/resource/Vossloh>, <http://pl.dbpedia.org/resource/Vossloh>, <http://wikidata.org/entity/Q689256>, <http://yago-knowledge.org/resource/Vossloh>, <http://no.dbpedia.org/resource/Vossloh> .
+
 ol:5299003HYFC0PYBYQH77
     lei:LegalForm "Aktiengesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -2678,6 +2685,13 @@ ol:5299003USCK58V1USM06
     lei:LegalName "Volksbank Hohenzollern eG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Volksbank_Hohenzollern> .
+
+ol:5299003VKVDCUPSS5X23
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Drillisch Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Drillisch>, <http://de.dbpedia.org/resource/Drillisch>, <http://wikidata.dbpedia.org/resource/Q1259028>, <http://wikidata.org/entity/Q1259028>, <http://yago-knowledge.org/resource/Drillisch> .
 
 ol:5299003VTP6ZWXLP4P45
     lei:LegalForm "Anstalt des öffentlichen Rechts", "Anstalt öffentlichen Rechts" ;
@@ -3301,6 +3315,13 @@ ol:5299005D1LUOWGBZU449
     lei:LegalName "Friedrich Scharr KG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Friedrich_Scharr_KG> .
+
+ol:5299005DETTV58V2PP63
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "DEUTZ Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Deutz_AG>, <http://fr.dbpedia.org/resource/Deutz_AG>, <http://de.dbpedia.org/resource/Deutz_AG>, <http://wikidata.dbpedia.org/resource/Q533617>, <http://cs.dbpedia.org/resource/Deutz_AG>, <http://it.dbpedia.org/resource/Deutz_AG>, <http://nl.dbpedia.org/resource/Deutz_AG>, <http://pl.dbpedia.org/resource/Deutz_AG>, <http://fa.dbpedia.org/resource/دویتز_آ_گ>, <http://ku.dbpedia.org/resource/Deutz_AG>, <http://ro.dbpedia.org/resource/Deutz_AG>, <http://ru.dbpedia.org/resource/Deutz_AG>, <http://sl.dbpedia.org/resource/Deutz_AG>, <http://sv.dbpedia.org/resource/Deutz_AG>, <http://tr.dbpedia.org/resource/Deutz>, <http://zh.dbpedia.org/resource/道依茨> .
 
 ol:5299005DJX986VALHY44
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -4966,6 +4987,13 @@ ol:529900AJ2F80T1EA8X85
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Kreissparkasse_Garmisch-Partenkirchen> .
 
+ol:529900AJLXERVU6GEY09
+    lei:LegalForm "Kommanditgesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Air Berlin PLC & Co. Luftverkehrs KG" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Air_Berlin>, <http://fr.dbpedia.org/resource/Air_Berlin>, <http://de.dbpedia.org/resource/Air_Berlin>, <http://wikidata.dbpedia.org/resource/Q156829>, <http://cs.dbpedia.org/resource/Air_Berlin>, <http://es.dbpedia.org/resource/Air_Berlin>, <http://eu.dbpedia.org/resource/Air_Berlin>, <http://id.dbpedia.org/resource/Air_Berlin>, <http://it.dbpedia.org/resource/Air_Berlin>, <http://ja.dbpedia.org/resource/エア・ベルリン>, <http://ko.dbpedia.org/resource/에어_베를린>, <http://nl.dbpedia.org/resource/Air_Berlin>, <http://pl.dbpedia.org/resource/Air_Berlin>, <http://pt.dbpedia.org/resource/Air_Berlin>, <http://wikidata.org/entity/Q156829>, <http://yago-knowledge.org/resource/Air_Berlin>, <http://ar.dbpedia.org/resource/طيران_برلين>, <http://ca.dbpedia.org/resource/Air_Berlin>, <http://da.dbpedia.org/resource/Air_Berlin>, <http://et.dbpedia.org/resource/Air_Berlin>, <http://fi.dbpedia.org/resource/Airberlin>, <http://gl.dbpedia.org/resource/Air_Berlin>, <http://he.dbpedia.org/resource/אייר_ברלין>, <http://hu.dbpedia.org/resource/Air_Berlin>, <http://jv.dbpedia.org/resource/Air_Berlin>, <http://la.dbpedia.org/resource/Air_Berlin>, <http://mk.dbpedia.org/resource/Air_Berlin>, <http://no.dbpedia.org/resource/Air_Berlin>, <http://qu.dbpedia.org/resource/Air_Berlin>, <http://ro.dbpedia.org/resource/Air_Berlin>, <http://ru.dbpedia.org/resource/Air_Berlin>, <http://sk.dbpedia.org/resource/Air_Berlin>, <http://sv.dbpedia.org/resource/Air_Berlin>, <http://tr.dbpedia.org/resource/Air_Berlin>, <http://uk.dbpedia.org/resource/Air_Berlin>, <http://vi.dbpedia.org/resource/Air_Berlin>, <http://zh.dbpedia.org/resource/柏林航空> .
+
 ol:529900ALAAK3RM57YF71
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
     lei:LegalJurisdiction "AT" ;
@@ -5245,6 +5273,13 @@ ol:529900BC8ZRX8TF6L273
     lei:LegalName "PCC SE" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/PCC_(Unternehmen)> .
+
+ol:529900BCQXUJL7J96G45
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "LPKF Laser & Electronics Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/LPKF_Laser_&_Electronics>, <http://de.dbpedia.org/resource/LPKF_Laser_&_Electronics>, <http://wikidata.dbpedia.org/resource/Q1798289>, <http://wikidata.org/entity/Q1798289>, <http://yago-knowledge.org/resource/LPKF_Laser_&_Electronics>, <http://de.dbpedia.org/resource/LPKF_Laser_&_Electronics_AG> .
 
 ol:529900BH77UKJSRM4A37
     lei:LegalForm "Europäische Aktiengesellschaft (SE)" ;
@@ -5860,7 +5895,7 @@ ol:529900D6BF99LW9R2E68
     lei:LegalJurisdiction "DE" ;
     lei:LegalName "SAP SE" ;
     a lei:LEI ;
-    owl:sameAs <http://dbpedia.org/resource/SAP_SE>, <http://fr.dbpedia.org/resource/SAP_(entreprise)>, <http://de.dbpedia.org/resource/SAP>, <http://wikidata.dbpedia.org/resource/Q552581>, <http://cs.dbpedia.org/resource/SAP_(společnost)>, <http://el.dbpedia.org/resource/SAP>, <http://es.dbpedia.org/resource/SAP_AG>, <http://id.dbpedia.org/resource/SAP_AG>, <http://it.dbpedia.org/resource/SAP_(azienda)>, <http://ja.dbpedia.org/resource/SAP_(企業)>, <http://ko.dbpedia.org/resource/SAP_AG>, <http://nl.dbpedia.org/resource/SAP_AG>, <http://pl.dbpedia.org/resource/SAP_AG>, <http://pt.dbpedia.org/resource/SAP_AG>, <http://wikidata.org/entity/Q552581>, <http://sw.cyc.com/concept/Mx4r9ja0_CciEduAAADggVbxzQ>, <http://yago-knowledge.org/resource/SAP_AG>, <http://af.dbpedia.org/resource/SAP_(maatskappy)>, <http://ar.dbpedia.org/resource/ساب_إيه_جي>, <http://az.dbpedia.org/resource/SAP_AG>, <http://bg.dbpedia.org/resource/SAP_AG>, <http://bs.dbpedia.org/resource/SAP_AG>, <http://ca.dbpedia.org/resource/SAP_AG>, <http://da.dbpedia.org/resource/SAP_AG>, <http://eo.dbpedia.org/resource/SAP_AG>, <http://fa.dbpedia.org/resource/اس_آ_پ>, <http://fi.dbpedia.org/resource/SAP_(yritys)>, <http://fy.dbpedia.org/resource/SAP_AG>, <http://gl.dbpedia.org/resource/SAP_AG>, <http://he.dbpedia.org/resource/SAP_(חברה)>, <http://hi.dbpedia.org/resource/SAP_AG>, <http://hr.dbpedia.org/resource/SAP_AG>, <http://hsb.dbpedia.org/resource/SAP>, <http://hu.dbpedia.org/resource/SAP_AG>, <http://kk.dbpedia.org/resource/SAP_AG>, <http://kn.dbpedia.org/resource/SAP_AG>, <http://lt.dbpedia.org/resource/SAP>, <http://lv.dbpedia.org/resource/SAP_(uzņēmums)>, <http://mn.dbpedia.org/resource/SAP>, <http://mr.dbpedia.org/resource/व्यवसाय_व्यवस्थापन_प्रणाली_-_सॅप_(एस.ए.पी.)>, <http://nn.dbpedia.org/resource/SAP>, <http://no.dbpedia.org/resource/SAP_(selskap)>, <http://ro.dbpedia.org/resource/SAP_AG>, <http://ru.dbpedia.org/resource/SAP>, <http://sh.dbpedia.org/resource/SAP_AG>, <http://sk.dbpedia.org/resource/SAP_(softvérový_podnik)>, <http://sr.dbpedia.org/resource/SAP_AG>, <http://sv.dbpedia.org/resource/SAP_AG>, <http://ta.dbpedia.org/resource/சாப்>, <http://te.dbpedia.org/resource/SAP_AG>, <http://th.dbpedia.org/resource/เอสเอพี_เอจี>, <http://tr.dbpedia.org/resource/SAP>, <http://uk.dbpedia.org/resource/SAP_AG>, <http://uz.dbpedia.org/resource/SAP>, <http://vi.dbpedia.org/resource/Công_ty_Cổ_phần_SAP>, <http://zh.dbpedia.org/resource/SAP公司>
+    owl:sameAs <http://dbpedia.org/resource/SAP_SE>, <http://fr.dbpedia.org/resource/SAP_(entreprise)>, <http://de.dbpedia.org/resource/SAP>, <http://wikidata.dbpedia.org/resource/Q552581>, <http://cs.dbpedia.org/resource/SAP_(společnost)>, <http://el.dbpedia.org/resource/SAP>, <http://es.dbpedia.org/resource/SAP_AG>, <http://id.dbpedia.org/resource/SAP_AG>, <http://it.dbpedia.org/resource/SAP_(azienda)>, <http://ja.dbpedia.org/resource/SAP_(企業)>, <http://ko.dbpedia.org/resource/SAP_AG>, <http://nl.dbpedia.org/resource/SAP_AG>, <http://pl.dbpedia.org/resource/SAP_AG>, <http://pt.dbpedia.org/resource/SAP_AG>, <http://wikidata.org/entity/Q552581>, <http://sw.cyc.com/concept/Mx4r9ja0_CciEduAAADggVbxzQ>, <http://yago-knowledge.org/resource/SAP_AG>, <http://af.dbpedia.org/resource/SAP_(maatskappy)>, <http://ar.dbpedia.org/resource/ساب_إيه_جي>, <http://az.dbpedia.org/resource/SAP_AG>, <http://bg.dbpedia.org/resource/SAP_AG>, <http://bs.dbpedia.org/resource/SAP_AG>, <http://ca.dbpedia.org/resource/SAP_AG>, <http://da.dbpedia.org/resource/SAP_AG>, <http://eo.dbpedia.org/resource/SAP_AG>, <http://fa.dbpedia.org/resource/اس_آ_پ>, <http://fi.dbpedia.org/resource/SAP_(yritys)>, <http://fy.dbpedia.org/resource/SAP_AG>, <http://gl.dbpedia.org/resource/SAP_AG>, <http://he.dbpedia.org/resource/SAP_(חברה)>, <http://hi.dbpedia.org/resource/SAP_AG>, <http://hr.dbpedia.org/resource/SAP_AG>, <http://hsb.dbpedia.org/resource/SAP>, <http://hu.dbpedia.org/resource/SAP_AG>, <http://kk.dbpedia.org/resource/SAP_AG>, <http://kn.dbpedia.org/resource/SAP_AG>, <http://lt.dbpedia.org/resource/SAP>, <http://lv.dbpedia.org/resource/SAP_(uzņēmums)>, <http://mn.dbpedia.org/resource/SAP>, <http://mr.dbpedia.org/resource/व्यवसाय_व्यवस्थापन_प्रणाली_-_सॅप_(एस.ए.पी.)>, <http://nn.dbpedia.org/resource/SAP>, <http://no.dbpedia.org/resource/SAP_(selskap)>, <http://ro.dbpedia.org/resource/SAP_AG>, <http://ru.dbpedia.org/resource/SAP>, <http://sh.dbpedia.org/resource/SAP_AG>, <http://sk.dbpedia.org/resource/SAP_(softvérový_podnik)>, <http://sr.dbpedia.org/resource/SAP_AG>, <http://sv.dbpedia.org/resource/SAP_AG>, <http://ta.dbpedia.org/resource/சாப்>, <http://te.dbpedia.org/resource/SAP_AG>, <http://th.dbpedia.org/resource/เอสเอพี_เอจี>, <http://tr.dbpedia.org/resource/SAP>, <http://uk.dbpedia.org/resource/SAP_AG>, <http://uz.dbpedia.org/resource/SAP>, <http://vi.dbpedia.org/resource/Công_ty_Cổ_phần_SAP>, <http://zh.dbpedia.org/resource/SAP公司> .
 
 ol:529900D7N2PTTZWFWN57
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -6408,6 +6443,13 @@ ol:529900ELIX8Z8PQ6CU28
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Papierfabrik_Palm> .
 
+ol:529900ELR8E3G0FIIG96
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "SolarWorld Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/SolarWorld>, <http://fr.dbpedia.org/resource/SolarWorld>, <http://de.dbpedia.org/resource/SolarWorld>, <http://wikidata.dbpedia.org/resource/Q570372>, <http://it.dbpedia.org/resource/SolarWorld>, <http://wikidata.org/entity/Q570372>, <http://openei.org/resources/SolarWorld_AG>, <http://yago-knowledge.org/resource/SolarWorld>, <http://no.dbpedia.org/resource/SolarWorld>, <http://ru.dbpedia.org/resource/SolarWorld>, <http://tr.dbpedia.org/resource/SolarWorld> .
+
 ol:529900ELU0BFUDWJ9J90
     lei:LegalForm "Eingetragene Genossenschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -6442,6 +6484,13 @@ ol:529900EQT47R8J9Q5481
     lei:LegalName "Elektrisola Dr. Gerd Schildbach GmbH & Co. KG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Elektrisola> .
+
+ol:529900EQV2DY4FOAMU38
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Sartorius Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Sartorius_AG>, <http://de.dbpedia.org/resource/Sartorius_(Unternehmen)>, <http://wikidata.dbpedia.org/resource/Q175835>, <http://ja.dbpedia.org/resource/ザルトリウス>, <http://wikidata.org/entity/Q175835>, <http://yago-knowledge.org/resource/Sartorius_AG> .
 
 ol:529900ETVJXC7QRKSD81
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -6652,6 +6701,12 @@ ol:529900FCHJ6XA7ABR166
     lei:LegalName "Kliniken Schmieder (Stiftung & Co.) KG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Kliniken_Schmieder> .
+
+ol:529900FDHSN08UBJII80
+    lei:LegalForm "Kommanditgesellschaft auf Aktien" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "CTS Eventim AG & Co. KGaA" ;
+    a lei:LEI .
 
 ol:529900FEPHLAM29QNK35
     lei:LegalForm "Gesellschaft mit beschränkter Haftung & Compagnie Kommanditgesellschaft" ;
@@ -7311,6 +7366,13 @@ ol:529900H9255HSTOGDY35
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/ProCredit_Holding> .
 
+ol:529900HA2QT774RUXW59
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Bechtle Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Bechtle>, <http://fr.dbpedia.org/resource/Bechtle>, <http://de.dbpedia.org/resource/Bechtle_AG>, <http://wikidata.dbpedia.org/resource/Q724419>, <http://wikidata.org/entity/Q724419>, <http://yago-knowledge.org/resource/Bechtle> .
+
 ol:529900HB5JPSXLWJO138
     lei:LegalForm "Eingetragene Genossenschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -7772,6 +7834,13 @@ ol:529900IQ7GLKGXMX4A05
     lei:LegalName "Volksbank Saaletal eG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Volksbank_Saaletal> .
+
+ol:529900IQ90WSXBWSTD78
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "KOENIG & BAUER Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Koenig_&_Bauer>, <http://fr.dbpedia.org/resource/Koenig_&_Bauer_AG>, <http://de.dbpedia.org/resource/Koenig_&_Bauer>, <http://wikidata.dbpedia.org/resource/Q462264>, <http://pl.dbpedia.org/resource/Koenig_&_Bauer>, <http://sv.dbpedia.org/resource/Koenig_&_Bauer_AG>, <http://zh.dbpedia.org/resource/高宝股份公司> .
 
 ol:529900IQAYRZIGKOJL63
     lei:LegalForm "Europäische Aktiengesellschaft (SE)" ;
@@ -8577,6 +8646,13 @@ ol:529900KVXMEMLN4GVN38
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/AlzChem> .
 
+ol:529900KX7KGIC752H059
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Balda Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://de.dbpedia.org/resource/Balda>, <http://ja.dbpedia.org/resource/バルダ_(ドイツの企業)>, <http://ko.dbpedia.org/resource/발다>, <http://wikidata.dbpedia.org/resource/Q804740>, <http://wikidata.org/entity/Q804740> .
+
 ol:529900KXJ7UQAEPEBJ41
     lei:LegalForm "Gesellschaft mit beschränkter Haftung & Compagnie Kommanditgesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -8996,6 +9072,13 @@ ol:529900M158OU8D7KIY26
     lei:LegalName "Berentzen-Gruppe Aktiengesellschaft" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Berentzen> .
+
+ol:529900M1LIO0SLOBAS50
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Software Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Software_AG>, <http://fr.dbpedia.org/resource/Software_AG>, <http://de.dbpedia.org/resource/Software_AG>, <http://wikidata.dbpedia.org/resource/Q567371>, <http://it.dbpedia.org/resource/Software_AG>, <http://pl.dbpedia.org/resource/Software_AG>, <http://wikidata.org/entity/Q567371>, <http://yago-knowledge.org/resource/Software_AG>, <http://hu.dbpedia.org/resource/Software_AG>, <http://ru.dbpedia.org/resource/Software_AG> .
 
 ol:529900M224X7SRUD1C69
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -9668,6 +9751,12 @@ ol:529900ODXNU8H8UVR882
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Canyon_Bicycles>, <http://de.dbpedia.org/resource/Canyon_Bicycles>, <http://fr.dbpedia.org/resource/Canyon_Bicycles>, <http://nl.dbpedia.org/resource/Canyon_(fiets)>, <http://wikidata.dbpedia.org/resource/Q318730>, <http://wikidata.org/entity/Q318730> .
 
+ol:529900OE7WBEDX7PVB49
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "GESCO Aktiengesellschaft" ;
+    a lei:LEI .
+
 ol:529900OEMWTCZKJMYE61
     lei:LegalForm "Europäische Aktiengesellschaft (SE) & Compagnie Kommanditgesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -9772,6 +9861,13 @@ ol:529900ORAP0PUVO92402
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Volksbank_Friedrichshafen> .
 
+ol:529900OS5AIRXC3T2J37
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "PSI Aktiengesellschaft für Produkte und Systeme der Informationtechnolgie" ;
+    a lei:LEI ;
+    owl:sameAs <http://de.dbpedia.org/resource/PSI_AG>, <http://wikidata.dbpedia.org/resource/Q1312356>, <http://wikidata.org/entity/Q1312356> .
+
 ol:529900OUE1BJOVKCPT35
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
     lei:LegalJurisdiction "DE" ;
@@ -9862,6 +9958,13 @@ ol:529900P2J8FJYN5IEO20
     lei:LegalName "igus GmbH" ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Igus>, <http://de.dbpedia.org/resource/Igus>, <http://wikidata.dbpedia.org/resource/Q476643>, <http://wikidata.org/entity/Q476643> .
+
+ol:529900P34GDHGXK6VB37
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "JENOPTIK AG" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Jenoptik>, <http://fr.dbpedia.org/resource/Jenoptik>, <http://de.dbpedia.org/resource/Jenoptik>, <http://wikidata.dbpedia.org/resource/Q450403>, <http://es.dbpedia.org/resource/Jenoptik>, <http://wikidata.org/entity/Q450403>, <http://yago-knowledge.org/resource/Jenoptik>, <http://ru.dbpedia.org/resource/Jenoptik> .
 
 ol:529900P4GNHP1NY6YV11
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -11648,6 +11751,13 @@ ol:529900UQFAS5JRV90C11
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Stadtsparkasse_Bad_Oeynhausen> .
 
+ol:529900UPLL8Q0EGQRD94
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Phoenix Solar Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/>, <http://fr.dbpedia.org/resource/Phoenix_Solar>, <http://de.dbpedia.org/resource/Phoenix_Solar>, <http://wikidata.dbpedia.org/resource/Q708349>, <http://el.dbpedia.org/resource/Phoenix_Solar_AG>, <http://es.dbpedia.org/resource/Phoenix_Solar>, <http://it.dbpedia.org/resource/Phoenix_Solar>, <http://ja.dbpedia.org/resource/フェニックス・ソーラー>, <http://pt.dbpedia.org/resource/Phoenix_Solar>, <http://wikidata.org/entity/Q708349>, <http://yago-knowledge.org/resource/Phoenix_Solar>, <http://ar.dbpedia.org/resource/فينيكس_سولار_إى_جي>, <http://hi.dbpedia.org/resource/फीनिक्स_सोलर_AG>, <http://ru.dbpedia.org/resource/Феникс_Солар>, <http://zh.dbpedia.org/resource/菲尼克斯太阳能> .
+
 ol:529900US300Z94YNKY41
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
     lei:LegalJurisdiction "DE" ;
@@ -12598,6 +12708,13 @@ ol:529900XLAZ15LYK8XK27
     lei:LegalName "BHF-BANK Aktiengesellschaft" ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/BHF_Bank>, <http://de.dbpedia.org/resource/BHF-Bank>, <http://wikidata.dbpedia.org/resource/Q795936>, <http://wikidata.org/entity/Q795936> .
+
+ol:529900XMQYET3NBF2363
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "BAUER Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Bauer_Group>, <http://fr.dbpedia.org/resource/Bauer_Group>, <http://de.dbpedia.org/resource/Bauer_AG>, <http://wikidata.dbpedia.org/resource/Q811213>, <http://wikidata.org/entity/Q811213>, <http://yago-knowledge.org/resource/Bauer_Group> .
 
 ol:529900XNCXFRS87WF868
     lei:LegalForm "Kommanditgesellschaft" ;
