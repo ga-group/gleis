@@ -1741,6 +1741,13 @@ ol:5299001E7QFNU9465K71
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/TITAL> .
 
+ol:5299001ERX0K10IZUL40
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Fraport AG Frankfurt Airport Services Worldwide" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Fraport>, <http://fr.dbpedia.org/resource/Fraport>, <http://de.dbpedia.org/resource/Fraport>, <http://wikidata.dbpedia.org/resource/Q643578>, <http://pl.dbpedia.org/resource/Fraport>, <http://pt.dbpedia.org/resource/Fraport>, <http://wikidata.org/entity/Q643578>, <http://yago-knowledge.org/resource/Fraport>, <http://ca.dbpedia.org/resource/Fraport>, <http://ru.dbpedia.org/resource/Fraport>, <http://sv.dbpedia.org/resource/Fraport>, <http://uk.dbpedia.org/resource/Fraport> .
+
 ol:5299001ETQ4XWN43X950
     lei:LegalForm "Kommanditgesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -1880,6 +1887,13 @@ ol:5299001OHKQVQZXUTY65
     lei:LegalName "Tengelmann Warenhandelsgesellschaft KG" ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Tengelmann_Group>, <http://de.dbpedia.org/resource/Tengelmann_(Unternehmen)>, <http://ru.dbpedia.org/resource/Tengelmann_Group>, <http://wikidata.dbpedia.org/resource/Q832996>, <http://wikidata.org/entity/Q832996> .
+
+ol:5299001OU9CSE29O6S05
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Rheinmetall Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Rheinmetall>, <http://fr.dbpedia.org/resource/Rheinmetall>, <http://de.dbpedia.org/resource/Rheinmetall>, <http://wikidata.dbpedia.org/resource/Q161544>, <http://cs.dbpedia.org/resource/Rheinmetall>, <http://es.dbpedia.org/resource/Rheinmetall>, <http://id.dbpedia.org/resource/Rheinmetall>, <http://it.dbpedia.org/resource/Rheinmetall>, <http://ja.dbpedia.org/resource/ラインメタル>, <http://ko.dbpedia.org/resource/라인메탈>, <http://nl.dbpedia.org/resource/Rheinmetall>, <http://pl.dbpedia.org/resource/Rheinmetall>, <http://wikidata.org/entity/Q161544>, <http://yago-knowledge.org/resource/Rheinmetall>, <http://ar.dbpedia.org/resource/راينميتال>, <http://fa.dbpedia.org/resource/راین‌متال>, <http://fi.dbpedia.org/resource/Rheinmetall>, <http://lt.dbpedia.org/resource/Rheinmetall>, <http://no.dbpedia.org/resource/Rheinmetall>, <http://ro.dbpedia.org/resource/Rheinmetall>, <http://ru.dbpedia.org/resource/Rheinmetall>, <http://sv.dbpedia.org/resource/Rheinmetall>, <http://uk.dbpedia.org/resource/Rheinmetall>, <http://zh.dbpedia.org/resource/莱茵金属> .
 
 ol:5299001PM387GO938F16
     lei:LegalForm "Anstalt des öffentlichen Rechts", "Anstalt öffentlichen Rechts" ;
@@ -3813,6 +3827,12 @@ ol:5299006ZFZN24XAFPE44
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Sedo>, <http://de.dbpedia.org/resource/Sedo>, <http://wikidata.dbpedia.org/resource/Q963064>, <http://wikidata.org/entity/Q963064> .
 
+ol:5299006ZIILJ6VJVSJ32
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Talanx Aktiengesellschaft" ;
+    a lei:LEI .
+
 ol:5299006ZJI6KKBWJUE40
     lei:LegalForm "Eingetragene Genossenschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -5352,6 +5372,13 @@ ol:529900BU2W60OCE4EA97
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Kreissparkasse_Limburg> .
 
+ol:529900BU5B7N9GE4XU15
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Fielmann Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Fielmann>, <http://fr.dbpedia.org/resource/Fielmann>, <http://de.dbpedia.org/resource/Fielmann>, <http://wikidata.dbpedia.org/resource/Q457822>, <http://nl.dbpedia.org/resource/Fielmann>, <http://wikidata.org/entity/Q457822>, <http://yago-knowledge.org/resource/Fielmann>, <http://ru.dbpedia.org/resource/Fielmann> .
+
 ol:529900BV136EJBLGXG65
     lei:LegalForm "Gesellschaft mit beschränkter Haftung & Compagnie Kommanditgesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -6192,6 +6219,13 @@ ol:529900E12M42ZWY1DR93
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Sparkasse_Mainfranken_Würzburg> .
 
+ol:529900E12Z6HXIMHFA15
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Salzgitter Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Salzgitter_AG>, <http://fr.dbpedia.org/resource/Salzgitter_AG>, <http://de.dbpedia.org/resource/Salzgitter_AG>, <http://wikidata.dbpedia.org/resource/Q652442>, <http://es.dbpedia.org/resource/Salzgitter_AG>, <http://pl.dbpedia.org/resource/Salzgitter_AG>, <http://wikidata.org/entity/Q652442>, <http://yago-knowledge.org/resource/Salzgitter_AG>, <http://fi.dbpedia.org/resource/Salzgitter_(yritys)>, <http://ru.dbpedia.org/resource/Salzgitter_AG>, <http://sv.dbpedia.org/resource/Salzgitter_AG>, <http://uk.dbpedia.org/resource/Salzgitter_AG> .
+
 ol:529900E295P0MRKKGG89
     lei:LegalForm "Aktiengesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -6674,6 +6708,13 @@ ol:529900FMAXCB4IMIDR30
     lei:LegalName "JOANNEUM RESEARCH Forschungsgesellschaft mbH" ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Joanneum_Research>, <http://de.dbpedia.org/resource/Joanneum_Research>, <http://wikidata.dbpedia.org/resource/Q1690845>, <http://wikidata.org/entity/Q1690845> .
+
+ol:529900FMTTLMH0P0DL10
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "STADA Arzneimittel Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Stada_Arzneimittel>, <http://fr.dbpedia.org/resource/Stada_Arzneimittel>, <http://de.dbpedia.org/resource/Stada_Arzneimittel>, <http://wikidata.dbpedia.org/resource/Q327169>, <http://wikidata.org/entity/Q327169>, <http://yago-knowledge.org/resource/STADA_Arzneimittel>, <http://oc.dbpedia.org/resource/Stada_Arzneimittel> .
 
 ol:529900FOB70S6UHPIQ27
     lei:LegalForm "Kommanditgesellschaft" ;
@@ -7458,6 +7499,13 @@ ol:529900HVLAH6NDAKYH16
     lei:LegalName "Volksbank Kurpfalz H + G BANK eG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Volksbank_Kurpfalz_H_+_G_Bank> .
+
+ol:529900HXE4EQIHJY8518
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "DMG Mori Seiki Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/DMG_Mori_Seiki_AG>, <http://fr.dbpedia.org/resource/Gildemeister_(entreprise)>, <http://de.dbpedia.org/resource/DMG_Mori_Seiki_AG>, <http://wikidata.dbpedia.org/resource/Q315290>, <http://wikidata.org/entity/Q315290> .
 
 ol:529900HYBLIFVEIKBN96
     lei:LegalForm "Eingetragene Genossenschaft" ;
@@ -8648,6 +8696,13 @@ ol:529900LEMMBXNRX31N35
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Nyrstar>, <http://de.dbpedia.org/resource/Nyrstar>, <http://fr.dbpedia.org/resource/Nyrstar>, <http://it.dbpedia.org/resource/Nyrstar>, <http://nl.dbpedia.org/resource/Nyrstar>, <http://wikidata.dbpedia.org/resource/Q823010>, <http://wikidata.org/entity/Q823010> .
 
+ol:529900LFVU534EBRXD13
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Hugo Boss AG" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Hugo_Boss>, <http://fr.dbpedia.org/resource/Hugo_Boss>, <http://de.dbpedia.org/resource/Hugo_Boss>, <http://wikidata.dbpedia.org/resource/Q491627>, <http://cs.dbpedia.org/resource/Hugo_Boss>, <http://es.dbpedia.org/resource/Hugo_Boss_AG>, <http://id.dbpedia.org/resource/Hugo_Boss>, <http://it.dbpedia.org/resource/Hugo_Boss>, <http://ja.dbpedia.org/resource/ヒューゴ・ボス>, <http://ko.dbpedia.org/resource/휴고_보스>, <http://nl.dbpedia.org/resource/Hugo_Boss>, <http://pl.dbpedia.org/resource/Hugo_Boss_AG>, <http://pt.dbpedia.org/resource/Hugo_Boss>, <http://wikidata.org/entity/Q491627>, <http://yago-knowledge.org/resource/Hugo_Boss>, <http://sw.cyc.com/concept/Mx4rOpGb8nooEdaQbwCQJ5pcrQ>, <http://ar.dbpedia.org/resource/هوغو_بوس>, <http://ast.dbpedia.org/resource/Hugo_Boss_AG>, <http://da.dbpedia.org/resource/Hugo_Boss>, <http://fa.dbpedia.org/resource/هوگو_باس>, <http://fi.dbpedia.org/resource/Hugo_Boss>, <http://gl.dbpedia.org/resource/Hugo_Boss>, <http://he.dbpedia.org/resource/הוגו_בוס>, <http://is.dbpedia.org/resource/Hugo_Boss>, <http://ka.dbpedia.org/resource/Hugo_Boss>, <http://ku.dbpedia.org/resource/Hugo_Boss>, <http://no.dbpedia.org/resource/Hugo_Boss>, <http://ro.dbpedia.org/resource/Hugo_Boss>, <http://ru.dbpedia.org/resource/Hugo_Boss>, <http://sv.dbpedia.org/resource/Hugo_Boss>, <http://tr.dbpedia.org/resource/Hugo_Boss>, <http://uk.dbpedia.org/resource/Hugo_Boss>, <http://uz.dbpedia.org/resource/Hugo_Boss>, <http://vi.dbpedia.org/resource/Hugo_Boss>, <http://zh.dbpedia.org/resource/雨果博斯> .
+
 ol:529900LG0ZUI1LJU1P46
     lei:LegalForm "Anstalt des öffentlichen Rechts", "Anstalt öffentlichen Rechts" ;
     lei:LegalJurisdiction "DE" ;
@@ -9431,6 +9486,13 @@ ol:529900NY1Y69ISL0CY14
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Merck_Finck_&_Co> .
 
+ol:529900NY2GSZWWUBW049
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "KRONES Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Krones>, <http://fr.dbpedia.org/resource/Krones>, <http://de.dbpedia.org/resource/Krones_AG>, <http://wikidata.dbpedia.org/resource/Q705337>, <http://es.dbpedia.org/resource/Krones_AG>, <http://it.dbpedia.org/resource/Krones_AG>, <http://ja.dbpedia.org/resource/クロネス_AG>, <http://nl.dbpedia.org/resource/Krones_AG>, <http://pl.dbpedia.org/resource/Krones>, <http://pt.dbpedia.org/resource/Krones>, <http://ru.dbpedia.org/resource/Krones>, <http://zh.dbpedia.org/resource/克朗斯> .
+
 ol:529900NYBZXNS4RNO697
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
     lei:LegalJurisdiction "DE" ;
@@ -9926,6 +9988,13 @@ ol:529900PHZ32U8QK7R083
     lei:LegalName "Raiffeisenbank Haag-Gars-Maitenbeth eG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Raiffeisenbank_Haag-Gars-Maitenbeth> .
+
+ol:529900PHZORTU6FSXE73
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Jungheinrich Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Jungheinrich>, <http://de.dbpedia.org/resource/Jungheinrich>, <http://wikidata.dbpedia.org/resource/Q536228>, <http://cs.dbpedia.org/resource/Jungheinrich>, <http://es.dbpedia.org/resource/Jungheinrich>, <http://pl.dbpedia.org/resource/Jungheinrich>, <http://wikidata.org/entity/Q536228>, <http://ru.dbpedia.org/resource/Jungheinrich_AG>, <http://sv.dbpedia.org/resource/Jungheinrich> .
 
 ol:529900PLAYDLOBW8W087
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -11843,6 +11912,13 @@ ol:529900VOD3V5IBEW8G44
     lei:LegalName "Gurit Holding AG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Gurit_Holding> .
+
+ol:529900VPRFDDIN7BE119
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "KUKA Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/KUKA>, <http://fr.dbpedia.org/resource/KUKA>, <http://de.dbpedia.org/resource/KUKA_Roboter>, <http://wikidata.dbpedia.org/resource/Q163566>, <http://cs.dbpedia.org/resource/KUKA>, <http://el.dbpedia.org/resource/ΚΟΥΚΑ>, <http://es.dbpedia.org/resource/KUKA>, <http://id.dbpedia.org/resource/KUKA>, <http://it.dbpedia.org/resource/KUKA>, <http://ja.dbpedia.org/resource/クーカ>, <http://ko.dbpedia.org/resource/KUKA>, <http://nl.dbpedia.org/resource/KUKA>, <http://pl.dbpedia.org/resource/KUKA>, <http://pt.dbpedia.org/resource/KUKA>, <http://wikidata.org/entity/Q163566>, <http://yago-knowledge.org/resource/KUKA>, <http://ar.dbpedia.org/resource/كيوكا>, <http://bar.dbpedia.org/resource/KUKA>, <http://da.dbpedia.org/resource/KUKA_Roboter>, <http://fi.dbpedia.org/resource/KUKA>, <http://no.dbpedia.org/resource/KUKA_Roboter>, <http://ru.dbpedia.org/resource/KUKA_Roboter>, <http://sv.dbpedia.org/resource/Kuka_Robotics>, <http://tr.dbpedia.org/resource/KUKA>, <http://zh.dbpedia.org/resource/库卡> .
 
 ol:529900VQBIFX79R7GU60
     lei:LegalForm "Aktiengesellschaft" ;
@@ -20158,6 +20234,13 @@ ol:549300PGXKEY7VEHBK50
     lei:LegalName "Electro Scientific Industries, Inc." ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Electro_Scientific_Industries>, <http://wikidata.dbpedia.org/resource/Q5357940>, <http://wikidata.org/entity/Q5357940> .
+
+ol:549300PHUU0ZZWO8EO07
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "GEA Group Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/GEA_Group>, <http://fr.dbpedia.org/resource/GEA_Group>, <http://de.dbpedia.org/resource/GEA_Group>, <http://wikidata.dbpedia.org/resource/Q446895>, <http://nl.dbpedia.org/resource/GEA_Group>, <http://pl.dbpedia.org/resource/GEA_Group>, <http://wikidata.org/entity/Q446895>, <http://yago-knowledge.org/resource/GEA_Group>, <http://openei.org/resources/GEA_Group> .
 
 ol:549300PHV8MBDHWB8X12
     lei:LegalForm "SOCIETA PER AZIONI" ;
