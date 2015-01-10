@@ -4840,6 +4840,13 @@ ol:529900A6WAJVRHA90G98
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Stadtsparkasse_Oberhausen> .
 
+ol:529900A7YD9C0LLXM621
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Continental Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Continental_AG>, <http://fr.dbpedia.org/resource/Continental_AG>, <http://de.dbpedia.org/resource/Continental_AG>, <http://wikidata.dbpedia.org/resource/Q163241>, <http://es.dbpedia.org/resource/Continental_AG>, <http://id.dbpedia.org/resource/Continental_AG>, <http://it.dbpedia.org/resource/Continental_AG>, <http://ja.dbpedia.org/resource/コンチネンタル_(自動車部品製造業)>, <http://nl.dbpedia.org/resource/Continental_AG>, <http://pl.dbpedia.org/resource/Continental_AG>, <http://pt.dbpedia.org/resource/Continental_AG>, <http://www4.wiwiss.fu-berlin.de/wikicompany/resource/Continental_AG>, <http://az.dbpedia.org/resource/Continental_AG>, <http://be.dbpedia.org/resource/Continental_AG>, <http://bg.dbpedia.org/resource/Континентал_(гуми)>, <http://da.dbpedia.org/resource/Continental_AG>, <http://fa.dbpedia.org/resource/کونتیننتال_آ_گ>, <http://fi.dbpedia.org/resource/Continental_AG>, <http://he.dbpedia.org/resource/קונטיננטל_AG>, <http://no.dbpedia.org/resource/Continental_(tysk_selskap)>, <http://ro.dbpedia.org/resource/Continental_AG>, <http://ru.dbpedia.org/resource/Continental_AG>, <http://sv.dbpedia.org/resource/Continental_AG>, <http://tr.dbpedia.org/resource/Continental>, <http://uk.dbpedia.org/resource/Continental_AG>, <http://zh.dbpedia.org/resource/大陆集团> .
+
 ol:529900A8LX4KL0YUTH71
     lei:LegalForm "Aktiengesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -5847,6 +5854,13 @@ ol:529900D6B9UJEUI2J669
     lei:LegalName "Carl Zeiss Jena GmbH" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Carl_Zeiss_Jena_(Unternehmen)> .
+
+ol:529900D6BF99LW9R2E68
+    lei:LegalForm "Europäische Aktiengesellschaft (SE)" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "SAP SE" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/SAP_SE>, <http://fr.dbpedia.org/resource/SAP_(entreprise)>, <http://de.dbpedia.org/resource/SAP>, <http://wikidata.dbpedia.org/resource/Q552581>, <http://cs.dbpedia.org/resource/SAP_(společnost)>, <http://el.dbpedia.org/resource/SAP>, <http://es.dbpedia.org/resource/SAP_AG>, <http://id.dbpedia.org/resource/SAP_AG>, <http://it.dbpedia.org/resource/SAP_(azienda)>, <http://ja.dbpedia.org/resource/SAP_(企業)>, <http://ko.dbpedia.org/resource/SAP_AG>, <http://nl.dbpedia.org/resource/SAP_AG>, <http://pl.dbpedia.org/resource/SAP_AG>, <http://pt.dbpedia.org/resource/SAP_AG>, <http://wikidata.org/entity/Q552581>, <http://sw.cyc.com/concept/Mx4r9ja0_CciEduAAADggVbxzQ>, <http://yago-knowledge.org/resource/SAP_AG>, <http://af.dbpedia.org/resource/SAP_(maatskappy)>, <http://ar.dbpedia.org/resource/ساب_إيه_جي>, <http://az.dbpedia.org/resource/SAP_AG>, <http://bg.dbpedia.org/resource/SAP_AG>, <http://bs.dbpedia.org/resource/SAP_AG>, <http://ca.dbpedia.org/resource/SAP_AG>, <http://da.dbpedia.org/resource/SAP_AG>, <http://eo.dbpedia.org/resource/SAP_AG>, <http://fa.dbpedia.org/resource/اس_آ_پ>, <http://fi.dbpedia.org/resource/SAP_(yritys)>, <http://fy.dbpedia.org/resource/SAP_AG>, <http://gl.dbpedia.org/resource/SAP_AG>, <http://he.dbpedia.org/resource/SAP_(חברה)>, <http://hi.dbpedia.org/resource/SAP_AG>, <http://hr.dbpedia.org/resource/SAP_AG>, <http://hsb.dbpedia.org/resource/SAP>, <http://hu.dbpedia.org/resource/SAP_AG>, <http://kk.dbpedia.org/resource/SAP_AG>, <http://kn.dbpedia.org/resource/SAP_AG>, <http://lt.dbpedia.org/resource/SAP>, <http://lv.dbpedia.org/resource/SAP_(uzņēmums)>, <http://mn.dbpedia.org/resource/SAP>, <http://mr.dbpedia.org/resource/व्यवसाय_व्यवस्थापन_प्रणाली_-_सॅप_(एस.ए.पी.)>, <http://nn.dbpedia.org/resource/SAP>, <http://no.dbpedia.org/resource/SAP_(selskap)>, <http://ro.dbpedia.org/resource/SAP_AG>, <http://ru.dbpedia.org/resource/SAP>, <http://sh.dbpedia.org/resource/SAP_AG>, <http://sk.dbpedia.org/resource/SAP_(softvérový_podnik)>, <http://sr.dbpedia.org/resource/SAP_AG>, <http://sv.dbpedia.org/resource/SAP_AG>, <http://ta.dbpedia.org/resource/சாப்>, <http://te.dbpedia.org/resource/SAP_AG>, <http://th.dbpedia.org/resource/เอสเอพี_เอจี>, <http://tr.dbpedia.org/resource/SAP>, <http://uk.dbpedia.org/resource/SAP_AG>, <http://uz.dbpedia.org/resource/SAP>, <http://vi.dbpedia.org/resource/Công_ty_Cổ_phần_SAP>, <http://zh.dbpedia.org/resource/SAP公司>
 
 ol:529900D7N2PTTZWFWN57
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
@@ -6898,6 +6912,13 @@ ol:529900G2Z6BW1S0JJS60
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Volksbank_Raiffeisenbank_Niederschlesien> .
 
+ol:529900G3SW56SHYNPR95
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Deutsche Börse Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Deutsche_Börse>, <http://yago-knowledge.org/resource/Deutsche_Börse> .
+
 ol:529900G3YZMHUE25UT83
     lei:LegalForm "Europäische Aktiengesellschaft (SE)" ;
     lei:LegalJurisdiction "DE" ;
@@ -6974,6 +6995,13 @@ ol:529900GB6FMY3QJLBM61
     lei:LegalName "All for One Steeb AG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/All_for_One_Steeb> .
+
+ol:529900GB7KCA94ACC940
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "RWE Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/RWE>, <http://fr.dbpedia.org/resource/RWE>, <http://de.dbpedia.org/resource/RWE>, <http://wikidata.dbpedia.org/resource/Q138133>, <http://cs.dbpedia.org/resource/RWE>, <http://es.dbpedia.org/resource/RWE>, <http://id.dbpedia.org/resource/RWE>, <http://it.dbpedia.org/resource/RWE_(azienda)>, <http://ja.dbpedia.org/resource/RWE>, <http://nl.dbpedia.org/resource/RWE_(energie)>, <http://pl.dbpedia.org/resource/RWE_(koncern)>, <http://pt.dbpedia.org/resource/RWE>, <http://wikidata.org/entity/Q138133>, <http://openei.org/resources/RWE_AG>, <http://yago-knowledge.org/resource/RWE>, <http://be.dbpedia.org/resource/RWE>, <http://da.dbpedia.org/resource/RWE>, <http://fa.dbpedia.org/resource/ار_وه_ئه>, <http://fi.dbpedia.org/resource/RWE>, <http://ro.dbpedia.org/resource/RWE>, <http://ru.dbpedia.org/resource/RWE>, <http://sv.dbpedia.org/resource/RWE>, <http://uk.dbpedia.org/resource/RWE>, <http://zh.dbpedia.org/resource/莱茵集团> .
 
 ol:529900GB9HQMO9Y9B097
     lei:LegalForm "Anstalt öffentlichen Rechts" ;
@@ -9193,6 +9221,13 @@ ol:529900MUC204CK2ZQQ28
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/LH_Bundeswehr_Bekleidungsgesellschaft> .
 
+ol:529900MUF4C20K50JS49
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Munich_Re>, <http://fr.dbpedia.org/resource/Munich_Re>, <http://de.dbpedia.org/resource/Munich_Re>, <http://wikidata.dbpedia.org/resource/Q166637>, <http://es.dbpedia.org/resource/Münchener_Rück>, <http://id.dbpedia.org/resource/Munich_Re>, <http://it.dbpedia.org/resource/Munich_Re>, <http://ko.dbpedia.org/resource/뮤닉_리>, <http://nl.dbpedia.org/resource/Münchener_Rück>, <http://pl.dbpedia.org/resource/Munich_Re>, <http://pt.dbpedia.org/resource/Munich_Re>, <http://wikidata.org/entity/Q166637>, <http://yago-knowledge.org/resource/Munich_Re>, <http://da.dbpedia.org/resource/Munich_Re>, <http://fa.dbpedia.org/resource/میونیک_ره>, <http://fi.dbpedia.org/resource/Munich_Re>, <http://lt.dbpedia.org/resource/Munich_Re>, <http://no.dbpedia.org/resource/Münchener_Rück>, <http://ro.dbpedia.org/resource/Münchener_Rück>, <http://ru.dbpedia.org/resource/Munich_Re>, <http://sv.dbpedia.org/resource/Munich_Re>, <http://tr.dbpedia.org/resource/Munich_Re>, <http://vi.dbpedia.org/resource/Munich_Re> .
+
 ol:529900MUFUE31BMNG640
     lei:LegalForm "Gesellschaft mit beschränkter Haftung" ;
     lei:LegalJurisdiction "DE" ;
@@ -9445,6 +9480,13 @@ ol:529900NNSQCX28FWBW79
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Deutsche_Rohstoff> .
 
+ol:529900NNUPAGGOMPXZ31
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "VOLKSWAGEN AKTIENGESELLSCHAFT" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Volkswagen_Group>, <http://fr.dbpedia.org/resource/Volkswagen_(entreprise)>, <http://de.dbpedia.org/resource/Volkswagen_AG>, <http://wikidata.dbpedia.org/resource/Q156578>, <http://cs.dbpedia.org/resource/Volkswagen_Group>, <http://el.dbpedia.org/resource/Όμιλος_Volkswagen>, <http://es.dbpedia.org/resource/Grupo_Volkswagen>, <http://id.dbpedia.org/resource/Grup_Volkswagen>, <http://it.dbpedia.org/resource/Gruppo_Volkswagen>, <http://ja.dbpedia.org/resource/フォルクスワーゲングループ>, <http://ko.dbpedia.org/resource/폭스바겐_AG>, <http://nl.dbpedia.org/resource/Volkswagen_AG>, <http://pl.dbpedia.org/resource/Volkswagen_AG>, <http://pt.dbpedia.org/resource/Grupo_Volkswagen>, <http://wikidata.org/entity/Q156578>, <http://yago-knowledge.org/resource/Volkswagen_Group>, <http://ar.dbpedia.org/resource/مجموعة_فولكس_فاجن>, <http://ast.dbpedia.org/resource/Grupu_Volkswagen>, <http://be.dbpedia.org/resource/Volkswagen_Group>, <http://bg.dbpedia.org/resource/Фолксваген>, <http://br.dbpedia.org/resource/Volkswagen_(embregerezh)>, <http://bs.dbpedia.org/resource/Volkswagen_grupa>, <http://ca.dbpedia.org/resource/Grup_Volkswagen>, <http://cy.dbpedia.org/resource/Volkswagen_AG>, <http://da.dbpedia.org/resource/Volkswagen_Aktiengesellschaft>, <http://eo.dbpedia.org/resource/Volkswagen_AG>, <http://et.dbpedia.org/resource/Volkswagen_AG>, <http://fa.dbpedia.org/resource/گروه_فولکس‌واگن>, <http://fi.dbpedia.org/resource/Volkswagen_Group>, <http://he.dbpedia.org/resource/קבוצת_פולקסווגן>, <http://hr.dbpedia.org/resource/Volkswagen_grupa>, <http://lt.dbpedia.org/resource/Volkswagen_AG>, <http://lv.dbpedia.org/resource/Volkswagen_grupa>, <http://nah.dbpedia.org/resource/Volkswagen_AG>, <http://no.dbpedia.org/resource/Volkswagen_Group>, <http://ro.dbpedia.org/resource/Grupul_Volkswagen>, <http://ru.dbpedia.org/resource/Volkswagen_(концерн)>, <http://sh.dbpedia.org/resource/Volkswagen_Group>, <http://sk.dbpedia.org/resource/Volkswagen_Group>, <http://sl.dbpedia.org/resource/Volkswagen_Group>, <http://sr.dbpedia.org/resource/Фолксваген>, <http://sv.dbpedia.org/resource/Volkswagen_AG>, <http://tr.dbpedia.org/resource/Volkswagen_grubu>, <http://uk.dbpedia.org/resource/Volkswagen_AG>, <http://vi.dbpedia.org/resource/Tập_đoàn_Volkswagen>, <http://zh.dbpedia.org/resource/大众集团>, <http://www.bbc.co.uk/things/60e9f197-2f48-4ded-8383-ba6f3004bc6c#id> .
+
 ol:529900NQJCR2WB9CKS75
     lei:LegalForm "Kommanditgesellschaft" ;
     lei:LegalJurisdiction "DE" ;
@@ -9576,6 +9618,13 @@ ol:529900O9DEANU6S5NM36
     lei:LegalName "Bosch Thermotechnik GmbH" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Bosch_Thermotechnik> .
+
+ol:529900OAREIS0MOPTW25
+    lei:LegalForm "Kommanditgesellschaft auf Aktien" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "MERCK Kommanditgesellschaft auf Aktien" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Merck_KGaA>, <http://fr.dbpedia.org/resource/Merck_KGaA>, <http://de.dbpedia.org/resource/Merck_KGaA>, <http://wikidata.dbpedia.org/resource/Q156959>, <http://es.dbpedia.org/resource/Merck_KGaA>, <http://id.dbpedia.org/resource/Merck_KGaA>, <http://it.dbpedia.org/resource/Merck_KGaA>, <http://ja.dbpedia.org/resource/メルク_(ドイツ)>, <http://ko.dbpedia.org/resource/메르크>, <http://nl.dbpedia.org/resource/Merck_KGaA>, <http://pl.dbpedia.org/resource/Merck_KGaA>, <http://pt.dbpedia.org/resource/Merck_KGaA>, <http://wikidata.org/entity/Q156959>, <http://yago-knowledge.org/resource/Merck_KGaA>, <http://bg.dbpedia.org/resource/Merck_KGaA>, <http://da.dbpedia.org/resource/Merck_KGaA>, <http://et.dbpedia.org/resource/Merck_KGaA>, <http://fa.dbpedia.org/resource/مرک>, <http://hu.dbpedia.org/resource/Merck>, <http://nn.dbpedia.org/resource/Merck_KGaA>, <http://no.dbpedia.org/resource/Merck_(tysk_selskap)>, <http://qu.dbpedia.org/resource/Merck>, <http://ro.dbpedia.org/resource/Merck_KGaA>, <http://ru.dbpedia.org/resource/Merck_KGaA>, <http://sr.dbpedia.org/resource/Merk_KGaA>, <http://sv.dbpedia.org/resource/Merck_KGaA>, <http://zh.dbpedia.org/resource/默克集團> .
 
 ol:529900OBCZMX3TFA0673
     lei:LegalForm "Anstalt öffentlichen Rechts" ;
@@ -10086,6 +10135,13 @@ ol:529900PT6AZRN58FZC34
     lei:LegalName "Siemens VAI Metals Technologies GmbH" ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Siemens_VAI>, <http://de.dbpedia.org/resource/Siemens_VAI>, <http://ru.dbpedia.org/resource/Siemens_VAI_Metals_Technologies>, <http://wikidata.dbpedia.org/resource/Q872255>, <http://wikidata.org/entity/Q872255> .
+
+ol:529900PTLRE72EMYIJ77
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "LANXESS Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Lanxess>, <http://fr.dbpedia.org/resource/Lanxess>, <http://de.dbpedia.org/resource/Lanxess>, <http://wikidata.dbpedia.org/resource/Q682992>, <http://es.dbpedia.org/resource/Lanxess>, <http://ja.dbpedia.org/resource/ランクセス>, <http://ko.dbpedia.org/resource/랑세스>, <http://nl.dbpedia.org/resource/Lanxess>, <http://pl.dbpedia.org/resource/Lanxess>, <http://pt.dbpedia.org/resource/Lanxess>, <http://wikidata.org/entity/Q682992>, <http://yago-knowledge.org/resource/Lanxess>, <http://fa.dbpedia.org/resource/لانکسس>, <http://qu.dbpedia.org/resource/Lanxess>, <http://ru.dbpedia.org/resource/Lanxess> .
 
 ol:529900PUKP3ST64FSG09
     lei:LegalForm "Anstalt öffentlichen Rechts" ;
@@ -12942,6 +12998,13 @@ ol:529900YUKZ4C8FPONG83
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/PSD_Bank_Nürnberg> .
 
+ol:529900YURAYD4IJX2J91
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "K+S Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/K+S>, <http://fr.dbpedia.org/resource/K+S>, <http://de.dbpedia.org/resource/K+S>, <http://wikidata.dbpedia.org/resource/Q658173>, <http://es.dbpedia.org/resource/K+S>, <http://nl.dbpedia.org/resource/K+S>, <http://pt.dbpedia.org/resource/K+S>, <http://wikidata.org/entity/Q658173>, <http://yago-knowledge.org/resource/K+S>, <http://da.dbpedia.org/resource/K+S>, <http://fa.dbpedia.org/resource/کا+اس>, <http://ru.dbpedia.org/resource/K+S>, <http://sv.dbpedia.org/resource/K+S> .
+
 ol:529900YVXCGNWAUYZG78
     lei:LegalForm "Publika Aktiebolag" ;
     lei:LegalJurisdiction "SE" ;
@@ -13200,6 +13263,13 @@ ol:529900ZL7CFMLNVHB562
     lei:LegalName "Volksbank Dill eG" ;
     a lei:LEI ;
     owl:sameAs <http://de.dbpedia.org/resource/Volksbank_Dill> .
+
+ol:529900ZM98OISTG16932
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Heidelberger Druckmaschinen Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://fr.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://de.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://wikidata.dbpedia.org/resource/Q697106>, <http://nl.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://pt.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://wikidata.org/entity/Q697106>, <http://yago-knowledge.org/resource/Heidelberger_Druckmaschinen>, <http://da.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://fa.dbpedia.org/resource/هایدلبرگر_دروکماشینن>, <http://no.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://ru.dbpedia.org/resource/Heidelberger_Druckmaschinen>, <http://sv.dbpedia.org/resource/Heidelberger_Druckmaschinen> .
 
 ol:529900ZMDTSQYEYCKL45
     lei:LegalForm "Eingetragene Genossenschaft" ;
@@ -18429,6 +18499,13 @@ ol:549300J4SXC5ALCJM731
     a lei:LEI ;
     owl:sameAs <http://ar.dbpedia.org/resource/فيروفي_ديلو_ستاتو>, <http://ca.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://dbpedia.org/resource/Ferrovie_dello_Stato_Italiane>, <http://de.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://es.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://fr.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://gl.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://hu.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://it.dbpedia.org/resource/Ferrovie_dello_Stato_Italiane>, <http://ja.dbpedia.org/resource/フェッロヴィーエ・デッロ・スタート>, <http://nl.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://oc.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://pl.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://pt.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://ru.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://sv.dbpedia.org/resource/Ferrovie_dello_Stato>, <http://wikidata.dbpedia.org/resource/Q83823>, <http://wikidata.org/entity/Q83823>, <http://zh.dbpedia.org/resource/意大利國家鐵路> .
 
+ol:549300J4U55H3WP1XT59
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "Bayer Aktiengesellschaft" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Bayer>, <http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/Bayer>, <http://it.dbpedia.org/resource/Bayer>, <http://fr.dbpedia.org/resource/Bayer_(entreprise)>, <http://de.dbpedia.org/resource/Bayer_AG>, <http://wikidata.dbpedia.org/resource/Q152051>, <http://cs.dbpedia.org/resource/Bayer>, <http://el.dbpedia.org/resource/Bayer_AG>, <http://es.dbpedia.org/resource/Bayer>, <http://eu.dbpedia.org/resource/Bayer>, <http://id.dbpedia.org/resource/Bayer>, <http://ja.dbpedia.org/resource/バイエル_(企業)>, <http://ko.dbpedia.org/resource/바이엘_(기업)>, <http://nl.dbpedia.org/resource/Bayer>, <http://pl.dbpedia.org/resource/Bayer_AG>, <http://pt.dbpedia.org/resource/Bayer>, <http://wikidata.org/entity/Q152051>, <http://sw.cyc.com/concept/Mx4rvYoWQZwpEbGdrcN5Y29ycA>, <http://yago-knowledge.org/resource/Bayer>, <http://ar.dbpedia.org/resource/باير>, <http://ast.dbpedia.org/resource/Bayer>, <http://be.dbpedia.org/resource/Bayer>, <http://bg.dbpedia.org/resource/Байер>, <http://bs.dbpedia.org/resource/Bayer>, <http://ca.dbpedia.org/resource/Bayer>, <http://da.dbpedia.org/resource/Bayer>, <http://eo.dbpedia.org/resource/Bayer>, <http://et.dbpedia.org/resource/Bayer_AG>, <http://fa.dbpedia.org/resource/بایر_(شرکت)>, <http://fi.dbpedia.org/resource/Bayer>, <http://gl.dbpedia.org/resource/Bayer>, <http://hu.dbpedia.org/resource/Bayer_AG>, <http://is.dbpedia.org/resource/Bayer>, <http://la.dbpedia.org/resource/Bayer_AG>, <http://lt.dbpedia.org/resource/Bayer_AG>, <http://lv.dbpedia.org/resource/Bayer_AG>, <http://no.dbpedia.org/resource/Bayer_(selskap)>, <http://pnb.dbpedia.org/resource/بائر>, <http://qu.dbpedia.org/resource/Bayer>, <http://ro.dbpedia.org/resource/Bayer>, <http://ru.dbpedia.org/resource/Bayer>, <http://sco.dbpedia.org/resource/Bayer>, <http://sk.dbpedia.org/resource/Bayer_AG>, <http://sl.dbpedia.org/resource/Bayer>, <http://sr.dbpedia.org/resource/Бајер_АГ>, <http://sv.dbpedia.org/resource/Bayer_AG>, <http://th.dbpedia.org/resource/ไบเออร์>, <http://tr.dbpedia.org/resource/Bayer_AG>, <http://uk.dbpedia.org/resource/Bayer>, <http://yi.dbpedia.org/resource/באיער>, <http://zh.dbpedia.org/resource/拜耳> .
+
 ol:549300J5GX77MHYFS085
     lei:LegalForm "INCORPORATED" ;
     lei:LegalJurisdiction "US" ;
@@ -18638,6 +18715,13 @@ ol:549300JSVDZIR2CPTP95
     lei:LegalName "Security Bank Corporation" ;
     a lei:LEI ;
     owl:sameAs <http://dbpedia.org/resource/Security_Bank>, <http://wikidata.dbpedia.org/resource/Q7444945>, <http://wikidata.org/entity/Q7444945> .
+
+ol:549300JSX0Z4CW0V5023
+    lei:LegalForm "Aktiengesellschaft" ;
+    lei:LegalJurisdiction "DE" ;
+    lei:LegalName "adidas AG" ;
+    a lei:LEI ;
+    owl:sameAs <http://dbpedia.org/resource/Adidas>, <http://fr.dbpedia.org/resource/Adidas>, <http://de.dbpedia.org/resource/Adidas>, <http://cs.dbpedia.org/resource/Adidas>, <http://el.dbpedia.org/resource/Adidas>, <http://es.dbpedia.org/resource/Adidas>, <http://eu.dbpedia.org/resource/Adidas>, <http://id.dbpedia.org/resource/Adidas>, <http://it.dbpedia.org/resource/Adidas>, <http://ja.dbpedia.org/resource/アディダス>, <http://ko.dbpedia.org/resource/아디다스>, <http://nl.dbpedia.org/resource/Adidas>, <http://pl.dbpedia.org/resource/Adidas>, <http://pt.dbpedia.org/resource/Adidas>, <http://wikidata.org/entity/Q3895>, <http://wikidata.dbpedia.org/resource/Q3895>, <http://sw.cyc.com/concept/Mx4rvVnqDpwpEbGdrcN5Y29ycA>, <http://yago-knowledge.org/resource/Adidas>, <http://af.dbpedia.org/resource/Adidas>, <http://ar.dbpedia.org/resource/أديداس>, <http://arz.dbpedia.org/resource/اديداس>, <http://az.dbpedia.org/resource/Adidas>, <http://bar.dbpedia.org/resource/Adidas>, <http://be.dbpedia.org/resource/Adidas>, <http://bg.dbpedia.org/resource/Адидас>, <http://bn.dbpedia.org/resource/আডিডাস>, <http://ca.dbpedia.org/resource/Adidas>, <http://da.dbpedia.org/resource/Adidas>, <http://et.dbpedia.org/resource/Adidas_AG>, <http://fa.dbpedia.org/resource/آدیداس>, <http://fi.dbpedia.org/resource/Adidas>, <http://ga.dbpedia.org/resource/Adidas>, <http://gl.dbpedia.org/resource/Adidas>, <http://gu.dbpedia.org/resource/એડિડાસ>, <http://he.dbpedia.org/resource/אדידס>, <http://hi.dbpedia.org/resource/एडिडास>, <http://hr.dbpedia.org/resource/Adidas>, <http://hu.dbpedia.org/resource/Adidas>, <http://hy.dbpedia.org/resource/Adidas>, <http://is.dbpedia.org/resource/Adidas>, <http://jv.dbpedia.org/resource/Adidas>, <http://ka.dbpedia.org/resource/Adidas>, <http://kk.dbpedia.org/resource/Adidas>, <http://kn.dbpedia.org/resource/ಅಡೀಡಸ್>, <http://lt.dbpedia.org/resource/Adidas>, <http://lv.dbpedia.org/resource/Adidas>, <http://mk.dbpedia.org/resource/Адидас>, <http://ml.dbpedia.org/resource/അഡിഡാസ്>, <http://mr.dbpedia.org/resource/आदिदास>, <http://ms.dbpedia.org/resource/Adidas>, <http://ne.dbpedia.org/resource/एडिडास_(कम्पनी)>, <http://no.dbpedia.org/resource/Adidas>, <http://oc.dbpedia.org/resource/Adidas>, <http://pnb.dbpedia.org/resource/ایڈیڈاس>, <http://ro.dbpedia.org/resource/Adidas>, <http://ru.dbpedia.org/resource/Adidas>, <http://sh.dbpedia.org/resource/Adidas>, <http://simple.dbpedia.org/resource/Adidas>, <http://sk.dbpedia.org/resource/Adidas>, <http://sr.dbpedia.org/resource/Адидас>, <http://sv.dbpedia.org/resource/Adidas>, <http://te.dbpedia.org/resource/అడిడాస్>, <http://th.dbpedia.org/resource/อาดิดาส>, <http://tr.dbpedia.org/resource/Adidas>, <http://uk.dbpedia.org/resource/Adidas>, <http://uz.dbpedia.org/resource/Adidas>, <http://vi.dbpedia.org/resource/Adidas>, <http://zh.dbpedia.org/resource/愛迪達> .
 
 ol:549300JU9SOUHV4U4R71
     lei:LegalForm "CORPORATION" ;
